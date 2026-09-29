@@ -1,0 +1,5204 @@
+[
+{
+"q": "Islom dinining necha ta arkoni (ustuni) bor?",
+"o": [
+"Besh",
+"Olti",
+"Yetti",
+"To'rt"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Islom arkonlarining birinchisi qaysi?",
+"o": [
+"Ro'za tutish",
+"Kalima keltirish",
+"Zakot berish",
+"Haj qilish"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Bir kunda necha vaqt farz namoz o'qiladi?",
+"o": [
+"Uch",
+"To'rt",
+"Besh",
+"Olti"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Bomdod namozi necha rakat farzdan iborat?",
+"o": [
+"To'rt",
+"Uch",
+"Bir",
+"Ikki"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Peshin namozi necha rakat farzdan iborat?",
+"o": [
+"To'rt",
+"Ikki",
+"Uch",
+"Besh"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Shom namozi necha rakat farzdan iborat?",
+"o": [
+"Ikki",
+"Uch",
+"To'rt",
+"Besh"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Xufton namozi necha rakat farzdan iborat?",
+"o": [
+"Ikki",
+"Uch",
+"To'rt",
+"Besh"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Ro'za qaysi oyda farz qilingan?",
+"o": [
+"Shavvol",
+"Rajab",
+"Sha'bon",
+"Ramazon"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Qur'oni Karimda nechta sura bor?",
+"o": [
+"114",
+"110",
+"120",
+"104"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Qur'onning birinchi surasi qaysi?",
+"o": [
+"Baqara",
+"Fotiha",
+"Ixlos",
+"Nos"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Qur'ondagi eng uzun sura qaysi?",
+"o": [
+"Fotiha",
+"Yosin",
+"Baqara",
+"Kahf"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Qur'on qaysi tilda nozil bo'lgan?",
+"o": [
+"Fors tilida",
+"Ibroniy tilida",
+"Suryoniy tilida",
+"Arab tilida"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Qur'on qancha yil davomida nozil bo'lgan?",
+"o": [
+"23 yil",
+"10 yil",
+"40 yil",
+"5 yil"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Muhammad (s.a.v.) qaysi shaharda tug'ilganlar?",
+"o": [
+"Madina",
+"Makka",
+"Toif",
+"Quds"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Muhammad (s.a.v.) qaysi shaharga hijrat qilganlar?",
+"o": [
+"Makka",
+"Toif",
+"Madina",
+"Damashq"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Islom taqvimi qaysi voqeadan boshlanadi?",
+"o": [
+"Payg'ambar tug'ilishidan",
+"Makka fathidan",
+"Birinchi vahiydan",
+"Hijrat voqeasidan"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Birinchi vahiy qaysi g'orda nozil bo'lgan?",
+"o": [
+"Hiro g'orida",
+"Savr g'orida",
+"Kahf g'orida",
+"Uhud g'orida"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Birinchi nozil bo'lgan oyat qaysi so'z bilan boshlanadi?",
+"o": [
+"Alhamdu",
+"Iqra",
+"Bismillah",
+"Qul"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Vahiyni olib kelgan farishta kim?",
+"o": [
+"Mikoil",
+"Isrofil",
+"Jabroil",
+"Azroil"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Musulmonlarning muqaddas ibodat uyi qaysi?",
+"o": [
+"Masjidun Nabaviy",
+"Masjidul Aqso",
+"Quba masjidi",
+"Ka'ba"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Ka'ba qaysi shaharda joylashgan?",
+"o": [
+"Makkada",
+"Madinada",
+"Qudsda",
+"Jiddada"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Namozda qaysi tomonga yuzlaniladi?",
+"o": [
+"Shimolga",
+"Qiblaga",
+"Sharqqa",
+"G'arbga"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Zakot nima?",
+"o": [
+"Ixtiyoriy sadaqa turi",
+"Qarz berish shakli",
+"Moldan beriladigan farz",
+"Qurbonlik so'yish odati"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Haj ibodati qaysi oyda ado etiladi?",
+"o": [
+"Ramazon oyida",
+"Muharram oyida",
+"Rajab oyida",
+"Zulhijja oyida"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Ramazon oyi tugagach qaysi bayram nishonlanadi?",
+"o": [
+"Ramazon hayiti",
+"Qurbon hayiti",
+"Mavlud kuni",
+"Ashuro kuni"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Qurbon hayiti qaysi ibodat bilan bog'liq?",
+"o": [
+"Ro'za tutish bilan",
+"Haj ibodati bilan",
+"Zakot berish bilan",
+"Tarovih namozi bilan"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Odam (a.s.) kim hisoblanadi?",
+"o": [
+"Oxirgi payg'ambar",
+"Birinchi xalifa",
+"Birinchi inson",
+"Birinchi shoh"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "To'fon voqeasi qaysi payg'ambar bilan bog'liq?",
+"o": [
+"Iso (a.s.) bilan",
+"Musa (a.s.) bilan",
+"Yusuf (a.s.) bilan",
+"Nuh (a.s.) bilan"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Qaysi payg'ambar 'Xalilullo' deb ataladi?",
+"o": [
+"Ibrohim (a.s.)",
+"Muso (a.s.)",
+"Iso (a.s.)",
+"Dovud (a.s.)"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Fir'avn qaysi payg'ambar davrida yashagan?",
+"o": [
+"Nuh (a.s.) davrida",
+"Muso (a.s.) davrida",
+"Yunus (a.s.) davrida",
+"Solih (a.s.) davrida"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Qaysi payg'ambarga Zabur kitobi berilgan?",
+"o": [
+"Muso (a.s.)ga",
+"Iso (a.s.)ga",
+"Dovud (a.s.)ga",
+"Ibrohim (a.s.)ga"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Qaysi payg'ambarga Tavrot berilgan?",
+"o": [
+"Iso (a.s.)ga",
+"Dovud (a.s.)ga",
+"Nuh (a.s.)ga",
+"Muso (a.s.)ga"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Qaysi payg'ambarga Injil berilgan?",
+"o": [
+"Iso (a.s.)ga",
+"Muso (a.s.)ga",
+"Dovud (a.s.)ga",
+"Yusuf (a.s.)ga"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Qaysi payg'ambar baliq qornida qolgan?",
+"o": [
+"Yusuf (a.s.)",
+"Yunus (a.s.)",
+"Ayyub (a.s.)",
+"Lut (a.s.)"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Sabr timsoli sifatida qaysi payg'ambar tilga olinadi?",
+"o": [
+"Sulaymon (a.s.)",
+"Yusuf (a.s.)",
+"Ayyub (a.s.)",
+"Idris (a.s.)"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Muhammad (s.a.v.)dan keyin birinchi xalifa kim bo'lgan?",
+"o": [
+"Umar ibn Xattob",
+"Usmon ibn Affon",
+"Ali ibn Abu Tolib",
+"Abu Bakr Siddiq"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Imom Buxoriy qaysi hududda tug'ilgan?",
+"o": [
+"Buxoroda",
+"Samarqandda",
+"Bag'dodda",
+"Kufada"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Imom Buxoriyning mashhur asari qaysi?",
+"o": [
+"Al-Muvatto",
+"Sahih al-Buxoriy",
+"Al-Hidoya",
+"Kitob at-Tavhid"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Hadis nima?",
+"o": [
+"Qur'on oyatlari to'plami",
+"Fiqh qoidalari majmuasi",
+"Payg'ambar so'zi va amali",
+"Duolar kitobi nomi"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Imom Termiziy qaysi sohada mashhur?",
+"o": [
+"Astronomiya sohasida",
+"Tibbiyot sohasida",
+"Matematika sohasida",
+"Hadis ilmida"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Al-Xorazmiy qaysi sohada mashhur bo'lgan?",
+"o": [
+"Matematika va algebra",
+"Me'morchilik san'ati",
+"Musiqa nazariyasi",
+"Harbiy strategiya"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Ibn Sino qaysi soha bilan mashhur?",
+"o": [
+"Geografiya fani",
+"Tibbiyot ilmi",
+"Adabiyot sohasi",
+"Astronomiya fani"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Bahouddin Naqshband qaysi shahar bilan bog'liq?",
+"o": [
+"Xivada",
+"Toshkentda",
+"Buxoroda",
+"Marg'ilonda"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Ahmad Yassaviy maqbarasi qaysi shaharda?",
+"o": [
+"Samarqandda",
+"Buxoroda",
+"Xivada",
+"Turkistonda"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Islomda ota-onaga munosabat qanday bo'lishi kerak?",
+"o": [
+"Yaxshilik va hurmat bilan",
+"Faqat moddiy yordam bilan",
+"Zarurat bo'lgandagina",
+"Masofa saqlab turgan holda"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Islomda ilm olish qanday baholanadi?",
+"o": [
+"Ixtiyoriy amal sifatida",
+"Har bir musulmonga farz",
+"Faqat erkaklarga tegishli",
+"Faqat bolalikda zarur"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Sadaqa nima?",
+"o": [
+"Majburiy soliq turi",
+"Qarzni uzish shakli",
+"Ixtiyoriy xayr-ehson",
+"Merosni taqsimlash usuli"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Islomda qo'shniga munosabat qanday bo'lishi kerak?",
+"o": [
+"Befarq va uzoq turish",
+"Faqat bayramlarda ko'rishish",
+"Zarurat bo'lsa yordamlashish",
+"Yaxshilik va e'tibor bilan"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Islomda rostgo'ylik qanday baholanadi?",
+"o": [
+"Muhim fazilat sifatida",
+"Ixtiyoriy odat sifatida",
+"Faqat savdoda zarur deb",
+"Faqat guvohlikda kerak deb"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Islomda g'iybat qanday baholanadi?",
+"o": [
+"Oddiy suhbat turi",
+"Man etilgan amal",
+"Foydali muloqot usuli",
+"Ijozat berilgan holat"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Islomda mehnat qanday baholanadi?",
+"o": [
+"Faqat zarurat sifatida",
+"Ikkinchi darajali ish deb",
+"Halol rizq manbai sifatida",
+"Ibodatga to'siq sifatida"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Islomda omonatga munosabat qanday bo'lishi kerak?",
+"o": [
+"Kerak bo'lsa ishlatish mumkin",
+"Uzoq saqlansa o'ziniki bo'ladi",
+"Guvoh bo'lmasa qaytarilmaydi",
+"Egasiga to'liq qaytariladi"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Islomda vaqtga munosabat qanday?",
+"o": [
+"Qadrlanadigan ne'mat sifatida",
+"Cheksiz resurs sifatida",
+"Ahamiyatsiz narsa sifatida",
+"Faqat ibodatga tegishli deb"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Taqvo so'zining ma'nosi nima?",
+"o": [
+"Ko'p ibodat qilish",
+"Allohdan qo'rqib saqlanish",
+"Ilm o'rganib borish",
+"Sadaqa ko'p berish"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Ixlos so'zining ma'nosi nima?",
+"o": [
+"Sabrli bo'lish holati",
+"Ko'p namoz o'qish",
+"Amalni Alloh uchun qilish",
+"Ro'za tutib yurish"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Tavba nima?",
+"o": [
+"Ko'p sadaqa berish",
+"Uzoq safar qilish",
+"Ilm o'rganish jarayoni",
+"Gunohdan qaytish va kechirim so'rash"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Shukr nima?",
+"o": [
+"Ne'matga minnatdorlik bildirish",
+"Qiyinchilikka sabr qilish",
+"Ko'p ibodat bajarish",
+"Boshqalarga yordam berish"
+],
+"c": 0,
+"t": "Diniy"
+},
+{
+"q": "Islomda isrofgarchilik qanday baholanadi?",
+"o": [
+"Maqtovga sazovor amal",
+"Qoralanadigan holat",
+"Boylik belgisi sifatida",
+"Ixtiyoriy tanlov deb"
+],
+"c": 1,
+"t": "Diniy"
+},
+{
+"q": "Islomda kattalarga hurmat qanday ko'rsatiladi?",
+"o": [
+"Faqat salomlashish bilan",
+"Faqat bayram kunlari",
+"So'z va amalda e'tibor bilan",
+"Uzoqdan kuzatib turish bilan"
+],
+"c": 2,
+"t": "Diniy"
+},
+{
+"q": "Islomda salom berishning ahamiyati nima?",
+"o": [
+"Shunchaki rasmiyatchilik",
+"Faqat tanishlarga aytiladi",
+"Ahamiyatsiz odat hisoblanadi",
+"Tinchlik va do'stlik tilagi"
+],
+"c": 3,
+"t": "Diniy"
+},
+{
+"q": "Algoritm nima?",
+"o": [
+"Kompyuterning asosiy detali",
+"Aniq qadamlar ketma-ketligi",
+"Internet tarmoq protokoli",
+"Xotira o'lchov birligi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "RAM xotirasining asosiy xususiyati nima?",
+"o": [
+"Quvvat o'chsa tozalanadi",
+"Ma'lumot abadiy saqlanadi",
+"Faqat rasm saqlaydi",
+"Tarmoqqa ulanib ishlaydi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "HTML nima uchun ishlatiladi?",
+"o": [
+"Sahifa ranglarini belgilash",
+"Sahifa tuzilishini yaratish",
+"Server xotirasini boshqarish",
+"Ma'lumotlarni shifrlash"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "CSS nima uchun ishlatiladi?",
+"o": [
+"Sahifa mantiqini yozish",
+"Bazadan ma'lumot olish",
+"Sahifa ko'rinishini bezash",
+"Fayllarni arxivlash"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "1 kilobayt necha baytga teng?",
+"o": [
+"100",
+"512",
+"1000",
+"1024"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "1 gigabayt necha megabaytga teng?",
+"o": [
+"1024",
+"2048",
+"512",
+"100"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "1 baytda nechta bit bor?",
+"o": [
+"4",
+"8",
+"16",
+"32"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Ikkilik sanoq sistemasida qaysi raqamlar bor?",
+"o": [
+"0 dan 9 gacha",
+"1 dan 8 gacha",
+"0 va 1",
+"0, 1 va 2"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Ikkilik 1010 soni o'nlik sanoqda nechchi?",
+"o": [
+"8",
+"10",
+"12",
+"14"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Ikkilik 1111 soni o'nlik sanoqda nechchi?",
+"o": [
+"12",
+"14",
+"15",
+"16"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Protsessor (CPU) nima vazifani bajaradi?",
+"o": [
+"Ma'lumotni doimiy saqlaydi",
+"Buyruqlarni hisoblab bajaradi",
+"Tasvirni ekranga chiqaradi",
+"Tarmoqqa signal uzatadi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "SSD diskning HDD'dan asosiy afzalligi nima?",
+"o": [
+"Ancha tezroq ishlashi",
+"Ancha arzonroq narxi",
+"Ancha kattaroq hajmi",
+"Ancha uzunroq kabeli"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Qaysi biri kiritish qurilmasi?",
+"o": [
+"Monitor ekrani",
+"Lazerli printer",
+"Klaviatura",
+"Ovoz kolonkasi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Qaysi biri chiqarish qurilmasi?",
+"o": [
+"Skaner apparati",
+"Mikrofon qurilmasi",
+"Sichqoncha",
+"Rangli printer"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Qaysi biri operatsion tizim?",
+"o": [
+"Photoshop",
+"Ubuntu",
+"Chrome",
+"Telegram"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Qaysi biri veb-brauzer?",
+"o": [
+"Firefox",
+"Windows",
+"Android",
+"Linux"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Qaysi biri dasturlash tili emas?",
+"o": [
+"Python",
+"JavaScript",
+"HTML",
+"Java"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Python tilini kim yaratgan?",
+"o": [
+"Brendan Eich",
+"Guido van Rossum",
+"Bjarne Stroustrup",
+"James Gosling"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "World Wide Web ixtirochisi kim?",
+"o": [
+"Steve Jobs",
+"Bill Gates",
+"Tim Berners-Lee",
+"Linus Torvalds"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Birinchi dasturchi hisoblangan ayol kim?",
+"o": [
+"Ada Lovelace",
+"Grace Hopper",
+"Marie Curie",
+"Hedy Lamarr"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Linux yadrosini kim yaratgan?",
+"o": [
+"Dennis Ritchie",
+"Ken Thompson",
+"Richard Stallman",
+"Linus Torvalds"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Python'da ro'yxat (list) qaysi qavs bilan yoziladi?",
+"o": [
+"Kvadrat qavs [ ]",
+"Figurali qavs { }",
+"Oddiy qavs ( )",
+"Burchakli qavs < >"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Python'da lug'at (dict) qaysi qavs bilan yoziladi?",
+"o": [
+"Kvadrat qavs [ ]",
+"Oddiy qavs ( )",
+"Figurali qavs { }",
+"Burchakli qavs < >"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Python'da ekranga chiqarish funksiyasi qaysi?",
+"o": [
+"echo()",
+"print()",
+"write()",
+"output()"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Python'da izoh qaysi belgi bilan boshlanadi?",
+"o": [
+"// belgisi",
+"-- belgisi",
+"/* belgisi",
+"# belgisi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Python'da 7 // 2 amalining natijasi nima?",
+"o": [
+"3",
+"3.5",
+"4",
+"2"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Python'da 7 % 2 amalining natijasi nima?",
+"o": [
+"3",
+"0",
+"1",
+"3.5"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Python'da 2 ** 3 amalining natijasi nima?",
+"o": [
+"5",
+"6",
+"9",
+"8"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Python'da range(5) qaysi sonlarni beradi?",
+"o": [
+"1,2,3,4,5",
+"0,1,2,3,4",
+"0,1,2,3,4,5",
+"1,2,3,4"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Python'da ro'yxat uzunligini qaysi funksiya beradi?",
+"o": [
+"size()",
+"count()",
+"len()",
+"length()"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Python'da ro'yxat oxiriga element qo'shish metodi qaysi?",
+"o": [
+"append()",
+"insert()",
+"push()",
+"add()"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Python'da funksiya qaysi kalit so'z bilan e'lon qilinadi?",
+"o": [
+"func",
+"function",
+"def",
+"fn"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Python'da kutubxona qaysi kalit so'z bilan chaqiriladi?",
+"o": [
+"include",
+"import",
+"require",
+"using"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Python'da xatoni ushlash uchun qaysi blok ishlatiladi?",
+"o": [
+"catch / throw",
+"do / while",
+"if / else",
+"try / except"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Python'da kod bloklari qanday ajratiladi?",
+"o": [
+"Bo'sh joy (otstup) bilan",
+"Figurali qavslar bilan",
+"Nuqta-vergul bilan",
+"Maxsus kalit so'z bilan"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Python'da kortej (tuple) qanday xususiyatga ega?",
+"o": [
+"Avtomatik saralanadi",
+"O'zgartirib bo'lmaydi",
+"Faqat sonlarni saqlaydi",
+"Har doim bo'sh bo'ladi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Python'da to'plam (set) qanday xususiyatga ega?",
+"o": [
+"Tartibi doim saqlanadi",
+"Faqat matn saqlaydi",
+"Takrorni qabul qilmaydi",
+"O'zgartirib bo'lmaydi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Ro'yxatning birinchi elementi indeksi nechchi?",
+"o": [
+"1",
+"2",
+"-1",
+"0"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "JavaScript'da o'zgarmas qiymat qaysi so'z bilan e'lon qilinadi?",
+"o": [
+"const",
+"let",
+"var",
+"final"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "JavaScript'da konsolga chiqarish usuli qaysi?",
+"o": [
+"print()",
+"console.log()",
+"echo()",
+"alert()"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "JavaScript'da qat'iy tenglik operatori qaysi?",
+"o": [
+"==",
+"=",
+"===",
+"!="
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "JavaScript'da funksiya qaysi kalit so'z bilan yoziladi?",
+"o": [
+"method",
+"def",
+"proc",
+"function"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Node.js nima imkonini beradi?",
+"o": [
+"JS'ni serverda ishlatish",
+"JS'ni tezroq yozish",
+"JS'ni rasmga aylantirish",
+"JS'ni shifrlash"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "npm nima vazifani bajaradi?",
+"o": [
+"Sahifani tezlashtiradi",
+"Paketlarni boshqaradi",
+"Kodni shifrlaydi",
+"Serverni sozlaydi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "JSON nima uchun ishlatiladi?",
+"o": [
+"Sahifani bezash uchun",
+"Kodni tezlashtirish uchun",
+"Ma'lumot almashish uchun",
+"Rasm siqish uchun"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "HTML'da eng katta sarlavha tegi qaysi?",
+"o": [
+"<big>",
+"<head>",
+"<h6>",
+"<h1>"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "HTML'da havola qaysi teg bilan yaratiladi?",
+"o": [
+"<a>",
+"<link>",
+"<url>",
+"<href>"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "HTML'da rasm qaysi teg bilan qo'yiladi?",
+"o": [
+"<photo>",
+"<img>",
+"<image>",
+"<pic>"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "HTML'da abzats qaysi teg bilan yoziladi?",
+"o": [
+"<text>",
+"<par>",
+"<p>",
+"<abz>"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "HTML'da tartiblanmagan ro'yxat qaysi teg?",
+"o": [
+"<ol>",
+"<dl>",
+"<li>",
+"<ul>"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "CSS'da matn rangi qaysi xususiyat bilan beriladi?",
+"o": [
+"color",
+"font-color",
+"text-color",
+"paint"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "CSS'da fon rangi qaysi xususiyat bilan beriladi?",
+"o": [
+"fill-color",
+"background-color",
+"back-color",
+"bg-paint"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "CSS'da class selektori qaysi belgi bilan yoziladi?",
+"o": [
+"Panjara #",
+"Yulduzcha *",
+"Nuqta .",
+"Ampersand &"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "CSS'da id selektori qaysi belgi bilan yoziladi?",
+"o": [
+"Nuqta .",
+"Yulduzcha *",
+"Ampersand &",
+"Panjara #"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "CSS'da element ichidagi bo'shliq qaysi xususiyat?",
+"o": [
+"padding",
+"margin",
+"border",
+"spacing"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "CSS'da elementlar orasidagi tashqi bo'shliq qaysi?",
+"o": [
+"padding",
+"margin",
+"outline",
+"offset"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "CSS'da elementni yashirish uchun nima yoziladi?",
+"o": [
+"hide: true",
+"visible: no",
+"display: none",
+"show: off"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "CSS Flexbox asosan nima uchun kerak?",
+"o": [
+"Rasm sifatini oshirish",
+"Kodni qisqartirish",
+"Sahifani shifrlash",
+"Elementlarni joylashtirish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Responsive dizayn nimani anglatadi?",
+"o": [
+"Ekranga moslashuvchanlik",
+"Tez yuklanish tezligi",
+"Yorqin rang tanlovi",
+"Kod hajmi kichikligi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Alt matn rasmga nima uchun yoziladi?",
+"o": [
+"Rasm hajmini kamaytirish",
+"Ko'rmaydiganlar uchun tavsif",
+"Rasm rangini o'zgartirish",
+"Rasm chegarasini chizish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "SQL'da ma'lumot olish buyrug'i qaysi?",
+"o": [
+"FETCH",
+"SELECT",
+"READ",
+"GET"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "SQL'da yangi yozuv qo'shish buyrug'i qaysi?",
+"o": [
+"INSERT",
+"APPEND",
+"CREATE",
+"PUT"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "SQL'da yozuvni yangilash buyrug'i qaysi?",
+"o": [
+"MODIFY",
+"CHANGE",
+"UPDATE",
+"EDIT"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "SQL'da shart qaysi kalit so'z bilan beriladi?",
+"o": [
+"IF",
+"WHEN",
+"FILTER",
+"WHERE"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Bazadagi 'primary key' nima vazifani bajaradi?",
+"o": [
+"Yozuvni yagona aniqlaydi",
+"Bazani parol bilan yopadi",
+"Jadvalni tartiblab beradi",
+"Ma'lumotni siqib saqlaydi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Qaysi biri relatsion ma'lumotlar bazasi?",
+"o": [
+"MongoDB",
+"MySQL",
+"Redis",
+"Cassandra"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "MongoDB qanday baza turiga kiradi?",
+"o": [
+"Jadvalli relatsion",
+"Grafik tuzilmali",
+"Hujjatli NoSQL",
+"Ustunli analitik"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Git'da o'zgarishni saqlash buyrug'i qaysi?",
+"o": [
+"git save",
+"git store",
+"git keep",
+"git commit"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Git'da masofaviy serverga yuborish buyrug'i qaysi?",
+"o": [
+"git push",
+"git send",
+"git upload",
+"git sync"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Git'da masofaviy o'zgarishni olish buyrug'i qaysi?",
+"o": [
+"git fetch",
+"git pull",
+"git get",
+"git down"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Git'da repozitoriyani nusxalash buyrug'i qaysi?",
+"o": [
+"git copy",
+"git fork",
+"git clone",
+"git dup"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Git'da yangi tarmoq (branch) nima uchun kerak?",
+"o": [
+"Kodni tezroq yozish uchun",
+"Fayl hajmini kamaytirish",
+"Xotirani bo'shatish uchun",
+"Asosiy kodga tegmaslik"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": ".gitignore fayli nima qiladi?",
+"o": [
+"Fayllarni kuzatuvdan chiqaradi",
+"Fayllarni butunlay o'chiradi",
+"Fayllarni shifrlab qo'yadi",
+"Fayllarni arxivga soladi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Merge conflict qachon yuzaga keladi?",
+"o": [
+"Internet uzilib qolganda",
+"Bir joy ikki marta o'zgarganda",
+"Fayl hajmi katta bo'lganda",
+"Repozitoriya eskirganda"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "GitHub qanday platforma?",
+"o": [
+"Video ko'rish platformasi",
+"Onlayn savdo platformasi",
+"Kod saqlash platformasi",
+"Musiqa tinglash platformasi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "HTTP 404 kodi nimani bildiradi?",
+"o": [
+"Server ishlamayapti",
+"So'rov muvaffaqiyatli",
+"Ruxsat berilmadi",
+"Sahifa topilmadi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "HTTP 200 kodi nimani bildiradi?",
+"o": [
+"So'rov muvaffaqiyatli",
+"Sahifa topilmadi",
+"Server xatosi",
+"Kirish taqiqlandi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "HTTP 500 kodi nimani bildiradi?",
+"o": [
+"Sahifa ko'chirilgan",
+"Server ichki xatosi",
+"Parol noto'g'ri",
+"So'rov juda uzun"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "HTTP GET metodi nima uchun ishlatiladi?",
+"o": [
+"Ma'lumotni o'chirish",
+"Ma'lumotni yuborish",
+"Ma'lumotni olish",
+"Ma'lumotni shifrlash"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "HTTP POST metodi nima uchun ishlatiladi?",
+"o": [
+"Faqat o'qish uchun",
+"Sahifani yopish uchun",
+"Faylni siqish uchun",
+"Serverga yuborish uchun"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "HTTPS'dagi 'S' harfi nimani bildiradi?",
+"o": [
+"Xavfsizlik (Secure)",
+"Tezlik (Speed)",
+"Tizim (System)",
+"Server"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "IP-manzil nima vazifani bajaradi?",
+"o": [
+"Faylni siqib saqlaydi",
+"Qurilmani tarmoqda aniqlaydi",
+"Parolni tekshirib beradi",
+"Ekranni yoritib turadi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "DNS nima vazifani bajaradi?",
+"o": [
+"Trafikni shifrlab beradi",
+"Serverni sovutib turadi",
+"Domenni IP'ga aylantiradi",
+"Faylni zaxiralab qo'yadi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Router (marshrutizator) nima qiladi?",
+"o": [
+"Ekranga tasvir chiqaradi",
+"Ma'lumotni doimiy saqlaydi",
+"Ovozni kuchaytirib beradi",
+"Tarmoqlar orasida uzatadi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Ping nimani o'lchaydi?",
+"o": [
+"Signalning borish vaqtini",
+"Diskning bo'sh joyini",
+"Ekran yorqinlik darajasini",
+"Protsessor issiqligini"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "LAN qisqartmasi nimani anglatadi?",
+"o": [
+"Katta global tarmoq",
+"Mahalliy hududiy tarmoq",
+"Simsiz antenna tizimi",
+"Server zaxira nusxasi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "API nima vazifani bajaradi?",
+"o": [
+"Rasmni tahrirlab beradi",
+"Xotirani tozalab turadi",
+"Dasturlarni bog'lab beradi",
+"Ekranni kattalashtiradi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Localhost nimani anglatadi?",
+"o": [
+"Uzoqdagi asosiy server",
+"Umumiy bulutli xotira",
+"Tashqi zaxira disk",
+"O'z kompyuteringizdagi server"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Frontend dasturchi nima bilan shug'ullanadi?",
+"o": [
+"Foydalanuvchi ko'radigan qism",
+"Server xavfsizligi masalasi",
+"Kabel tortish ishlari",
+"Bino loyihasi chizmasi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Backend dasturchi nima bilan shug'ullanadi?",
+"o": [
+"Logotip va rang tanlash",
+"Server mantiqi va bazasi",
+"Reklama matni yozish",
+"Video montaj qilish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Qaysi biri Python veb-framework?",
+"o": [
+"React",
+"Angular",
+"Django",
+"Laravel"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "React nima?",
+"o": [
+"Ma'lumotlar bazasi tizimi",
+"Operatsion tizim yadrosi",
+"Antivirus dasturi",
+"JS interfeys kutubxonasi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Framework nima?",
+"o": [
+"Tayyor tuzilma va vositalar",
+"Kompyuterning ichki detali",
+"Tarmoq kabeli standarti",
+"Fayl saqlash formati"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Kutubxona (library) dasturlashda nima?",
+"o": [
+"Kitoblar saqlash tizimi",
+"Tayyor funksiyalar to'plami",
+"Xotira bo'limi turi",
+"Server sovutish tizimi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "OOP qisqartmasi nimani anglatadi?",
+"o": [
+"Ochiq onlayn platforma",
+"Optimal operator paketi",
+"Obyektga yo'naltirilgan dasturlash",
+"Oddiy operatsion protokol"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "OOP'da klass nima?",
+"o": [
+"Xotira bo'limi nomi",
+"Tarmoq ulanish turi",
+"Fayl kengaytmasi belgisi",
+"Obyekt yaratish shabloni"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "OOP'da meros olish (inheritance) nima?",
+"o": [
+"Xususiyatlarni o'zlashtirish",
+"Xotirani bo'shatib berish",
+"Kodni shifrlab saqlash",
+"Faylni nusxalab qo'yish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Rekursiya nima?",
+"o": [
+"Ikki faylning birlashuvi",
+"Funksiyaning o'zini chaqirishi",
+"Xotiraning tozalanishi",
+"Tarmoqning uzilishi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Sikl (loop) nima uchun ishlatiladi?",
+"o": [
+"Faylni saqlab qo'yish",
+"Rangni o'zgartirish",
+"Amalni takrorlash",
+"Xatoni ushlash"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "O'zgaruvchi (variable) nima?",
+"o": [
+"Dasturdagi jiddiy xato",
+"Kompyuterning ichki detali",
+"Tarmoq uzatish protokoli",
+"Qiymat saqlanadigan nom"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Dasturlashda 'bug' nimani anglatadi?",
+"o": [
+"Dasturdagi xato",
+"Yangi qo'shilgan funksiya",
+"Ishlash tezligi ko'rsatkichi",
+"Fayl kengaytma turi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Debugging nima?",
+"o": [
+"Yangi dastur yozish jarayoni",
+"Xatolarni topib tuzatish",
+"Faylni butunlay o'chirish",
+"Kompyuterni changdan tozalash"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Sintaksis xatosi nimani bildiradi?",
+"o": [
+"Internet uzilib qolganini",
+"Xotira to'lib qolganini",
+"Til qoidasi buzilganini",
+"Fayl yo'qolib ketganini"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Kompilyator nima qiladi?",
+"o": [
+"Faylni arxivga soladi",
+"Tarmoqqa ulab beradi",
+"Rasmni tahrirlab beradi",
+"Kodni mashina tiliga o'giradi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Python qanday til hisoblanadi?",
+"o": [
+"Interpretatsiya qilinadigan",
+"Faqat kompilyatsiya bo'ladigan",
+"Mashina kodida yoziladigan",
+"Apparat darajasida ishlaydigan"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "DRY prinsipi nimani anglatadi?",
+"o": [
+"Tezroq kod yozish kerak",
+"O'zingizni takrorlamang",
+"Qisqa nom qo'yish kerak",
+"Ko'proq izoh yozing"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Kod izohlari nima uchun yoziladi?",
+"o": [
+"Dasturni tezlashtirish uchun",
+"Xotirani tejash uchun",
+"Tushunishni osonlashtirish",
+"Fayl hajmini oshirish"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Kod review (kod ko'rigi) nima uchun kerak?",
+"o": [
+"Fayl hajmini kamaytirish",
+"Ishni cho'zib yuborish",
+"Hamkasbni tanqid qilish",
+"Sifat va xatolarni topish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Kuchli parol qanday bo'lishi kerak?",
+"o": [
+"Uzun va aralash belgili",
+"Eslab qolish uchun qisqa",
+"Ism va tug'ilgan yildan",
+"Faqat raqamlardan iborat"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Fishing (phishing) hujumi nima?",
+"o": [
+"Serverni ortiqcha yuklash",
+"Aldab ma'lumot o'g'irlash",
+"Faylni shifrlab qo'yish",
+"Tarmoqni sekinlashtirish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Ransomware nima qiladi?",
+"o": [
+"Tarmoqni tezlashtiradi",
+"Fayllarni tartiblab beradi",
+"Fayllarni shifrlab pul so'raydi",
+"Xotirani kengaytirib beradi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Ikki bosqichli tasdiqlash (2FA) nima beradi?",
+"o": [
+"Tezroq internet ulanishi",
+"Kattaroq disk hajmi",
+"Yaxshiroq grafika sifati",
+"Qo'shimcha xavfsizlik qatlami"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "VPN nima uchun ishlatiladi?",
+"o": [
+"Shifrlangan ulanish uchun",
+"Hujjat chop etish uchun",
+"Rasm tahrirlash uchun",
+"Ovoz yozib olish uchun"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Firewall nima vazifani bajaradi?",
+"o": [
+"Faylni siqib beradi",
+"Ruxsatsiz kirishni to'sadi",
+"Ekranni yoritib turadi",
+"Ovozni kuchaytiradi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Shifrlash (encryption) nima uchun kerak?",
+"o": [
+"Fayl hajmini oshirish",
+"Internetni tezlashtirish",
+"Ma'lumotni himoyalash",
+"Rasm sifatini yaxshilash"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Zaxira nusxa (backup) nima uchun kerak?",
+"o": [
+"Kompyuterni tezlashtirish",
+"Ekran yorqinligini oshirish",
+"Xotirani kengaytirish",
+"Yo'qolgan ma'lumotni tiklash"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Ochiq kod (open source) nima?",
+"o": [
+"Kodi hammaga ochiq dastur",
+"Faqat pulga sotiladigan dastur",
+"Internetsiz ishlaydigan dastur",
+"Faqat serverda ishlaydigan dastur"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Bulutli xizmat (cloud) nima?",
+"o": [
+"Ob-havo kuzatish tizimi",
+"Internet orqali resurs olish",
+"Yangi rasm formati turi",
+"Simsiz klaviatura standarti"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Qaysi biri bulutli saqlash xizmati?",
+"o": [
+"Photoshop",
+"Notepad",
+"Google Drive",
+"Calculator"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Domen nomi nima?",
+"o": [
+"Serverning ichki xotirasi",
+"Faylning kengaytma turi",
+"Tarmoq kabeli standarti",
+"Saytning o'qiladigan manzili"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Hosting nima?",
+"o": [
+"Sayt fayllari saqlanadigan joy",
+"Sayt dizayni chizilgan fayl",
+"Sayt reklamasi tarqatish yo'li",
+"Sayt matni yozilgan hujjat"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Kesh (cache) nima uchun kerak?",
+"o": [
+"Ma'lumotni tez qaytarish",
+"Faylni butunlay o'chirish",
+"Parolni tekshirib berish",
+"Ekranni yoritib turish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Cookie brauzerda nima qiladi?",
+"o": [
+"Virus tarqatib yuboradi",
+"Kichik ma'lumot saqlaydi",
+"Ekranni kattalashtiradi",
+"Ovozni balandlatadi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Brauzerdagi 'incognito' rejimi nima qiladi?",
+"o": [
+"Butunlay anonim qiladi",
+"Internetni tezlashtiradi",
+"Ko'rish tarixini saqlamaydi",
+"Viruslardan himoya qiladi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Drayver (driver) nima?",
+"o": [
+"Kompyuterning ichki detali",
+"Tarmoq kabeli standarti",
+"Fayl arxivlash usuli",
+"Qurilmani tizimga bog'lovchi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "BIOS nima vazifani bajaradi?",
+"o": [
+"Kompyuterni ishga tushiradi",
+"Rasmni tahrirlab beradi",
+"Internetga ulab beradi",
+"Hujjat yozib beradi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Virtual mashina nima?",
+"o": [
+"Sun'iy intellekt turi",
+"Dasturiy kompyuter nusxasi",
+"O'yin konsoli modeli",
+"Tarmoq kabeli turi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Docker asosan nima uchun ishlatiladi?",
+"o": [
+"Rasm chizish uchun",
+"Ovoz yozish uchun",
+"Dasturni izolyatsiya qilish",
+"Matn tahrirlash uchun"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Linux'da fayllar ro'yxatini ko'rish buyrug'i qaysi?",
+"o": [
+"dir",
+"show",
+"files",
+"ls"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Linux'da papkaga o'tish buyrug'i qaysi?",
+"o": [
+"cd",
+"go",
+"move",
+"open"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Linux'da yangi papka yaratish buyrug'i qaysi?",
+"o": [
+"newdir",
+"mkdir",
+"folder",
+"createdir"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Terminal nima uchun ishlatiladi?",
+"o": [
+"Musiqa tinglash uchun",
+"Video ko'rish uchun",
+"Buyruq bilan boshqarish",
+"Rasm chizish uchun"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Qaysi biri kod yozish muharriri?",
+"o": [
+"Photoshop",
+"Excel",
+"Zoom",
+"VS Code"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Sun'iy intellekt (AI) nima?",
+"o": [
+"Aql vazifasini bajaruvchi tizim",
+"Faqat robot tanasi qismi",
+"Yangi internet kabeli turi",
+"Maxsus monitor texnologiyasi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Machine Learning nima?",
+"o": [
+"Kompyuter yig'ish usuli",
+"Ma'lumotdan o'rganuvchi tizim",
+"Klaviatura ishlash tamoyili",
+"Ekran sozlash dasturi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "AI bilan ishlashda 'prompt' nima?",
+"o": [
+"Dasturdagi jiddiy xato",
+"Fayl saqlash formati",
+"Modelga berilgan ko'rsatma",
+"Xotira o'lchov birligi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "AI 'gallyutsinatsiyasi' nimani anglatadi?",
+"o": [
+"Ekran o'chib qolishini",
+"Internet uzilib qolishini",
+"Fayl yo'qolib ketishini",
+"Ishonch bilan xato aytishni"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "AI javoblariga munosabatda eng to'g'ri yondashuv qaysi?",
+"o": [
+"Muhim faktlarni tekshirish",
+"Har doim so'zsiz ishonish",
+"Umuman foydalanmaslik",
+"Faqat tunda ishlatish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Deepfake nima?",
+"o": [
+"Chuqur qidiruv texnologiyasi",
+"AI yaratgan soxta video",
+"Fayl siqish algoritmi",
+"Tarmoq himoya usuli"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Katta ma'lumot (Big Data) nima?",
+"o": [
+"Bitta katta hajmli fayl",
+"Eski arxiv hujjatlari",
+"Juda katta ma'lumot to'plami",
+"Ko'p sahifali hisobot"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Ma'lumot tahlilchisi nima bilan shug'ullanadi?",
+"o": [
+"Kompyuter ta'mirlash bilan",
+"Kabel tortish ishlari bilan",
+"Ofis jihozlash bilan",
+"Ma'lumotdan xulosa chiqarish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Qaysi biri rasm fayl formati?",
+"o": [
+".png",
+".exe",
+".mp3",
+".txt"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Qaysi biri video fayl formati?",
+"o": [
+".docx",
+".mp4",
+".xlsx",
+".csv"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Qaysi biri arxiv fayl formati?",
+"o": [
+".jpg",
+".html",
+".zip",
+".mp3"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "CSV fayl nima uchun ishlatiladi?",
+"o": [
+"Video saqlash uchun",
+"Ovoz yozish uchun",
+"Dastur o'rnatish uchun",
+"Jadval saqlash uchun"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "PDF formatining asosiy afzalligi nima?",
+"o": [
+"Hamma joyda bir xil ko'rinadi",
+"Har doim oson tahrirlanadi",
+"Hajmi doim eng kichik",
+"Faqat rasm saqlay oladi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "SVG formati qanday grafikaga tegishli?",
+"o": [
+"Rastr (nuqtali) grafika",
+"Vektor (chiziqli) grafika",
+"Uch o'lchamli grafika",
+"Harakatli video grafika"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Vektorli grafikaning asosiy afzalligi nima?",
+"o": [
+"Fayl hajmi doim katta",
+"Faqat qora-oq bo'ladi",
+"Sifatsiz kattalashadi",
+"Sifatsiz yo'qotmay kattalashadi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Piksel nima?",
+"o": [
+"Xotira o'lchov birligi",
+"Dastur nomi turi",
+"Tasvirning eng kichik nuqtasi",
+"Ekran chegarasi ramkasi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "HEX kodda #FFFFFF qaysi rangni bildiradi?",
+"o": [
+"Oq",
+"Qora",
+"Qizil",
+"Ko'k"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "HEX kodda #000000 qaysi rangni bildiradi?",
+"o": [
+"Oq",
+"Qora",
+"Sariq",
+"Yashil"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "RGB rang modeli qaysi ranglardan iborat?",
+"o": [
+"Qizil, kulrang, jigarrang",
+"Qora, oq, kulrang",
+"Qizil, yashil, ko'k",
+"Sariq, pushti, ko'k"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "UX dizayn nimaga qaratilgan?",
+"o": [
+"Faqat rang tanlash ishiga",
+"Server sozlash masalasiga",
+"Kod tezligini oshirishga",
+"Foydalanuvchi tajribasiga"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "UI qisqartmasi nimani anglatadi?",
+"o": [
+"Foydalanuvchi interfeysi",
+"Universal internet ulanish",
+"Umumiy ishlash indeksi",
+"Ustuvor izohlash tizimi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Wireframe nima?",
+"o": [
+"Tayyor bo'lgan dizayn fayli",
+"Interfeysning oddiy chizmasi",
+"Sayt kodi yozilgan hujjat",
+"Baza jadvali tuzilishi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Prototip nima?",
+"o": [
+"Yakuniy tayyor mahsulot",
+"Reklama uchun banner",
+"Sinov uchun dastlabki namuna",
+"Moliyaviy hisobot shakli"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Dizaynda kontrast nima uchun muhim?",
+"o": [
+"Fayl hajmini kamaytiradi",
+"Sahifani tezlashtiradi",
+"Kodni qisqartirib beradi",
+"O'qishni osonlashtiradi"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Figma qanday vosita?",
+"o": [
+"Interfeys dizayni vositasi",
+"Ma'lumotlar bazasi tizimi",
+"Antivirus himoya dasturi",
+"Video montaj dasturi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "SEO nima uchun ishlatiladi?",
+"o": [
+"Kod hajmini kamaytirish",
+"Qidiruvda yuqoriga chiqish",
+"Rasm sifatini oshirish",
+"Serverni sovutish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "CTA (call to action) nima?",
+"o": [
+"Xatolik xabari turi",
+"Server javob kodi",
+"Harakatga undovchi tugma",
+"Fayl kengaytma nomi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "A/B test nima uchun o'tkaziladi?",
+"o": [
+"Kodni siqib berish uchun",
+"Serverni yangilash uchun",
+"Faylni o'chirish uchun",
+"Yaxshiroq variantni aniqlash"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Konversiya (conversion) nima?",
+"o": [
+"Maqsadli harakat bajarilishi",
+"Fayl formatining o'zgarishi",
+"Serverning qayta yuklanishi",
+"Kodning qisqartirilishi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Excel'da yig'indi hisoblash funksiyasi qaysi?",
+"o": [
+"TOTAL",
+"SUM",
+"PLUS",
+"ADD"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Excel'da o'rtacha qiymat funksiyasi qaysi?",
+"o": [
+"MEAN",
+"MIDDLE",
+"AVERAGE",
+"CENTER"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Excel'da formula qaysi belgi bilan boshlanadi?",
+"o": [
+"Panjara #",
+"Plyus +",
+"Ampersand @",
+"Tenglik ="
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Ctrl + Z klavishlari nima qiladi?",
+"o": [
+"Oxirgi amalni bekor qiladi",
+"Faylni saqlab qo'yadi",
+"Yangi oyna ochib beradi",
+"Hujjatni chop etadi"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Ctrl + F klavishlari nima qiladi?",
+"o": [
+"Faylni saqlaydi",
+"Matn qidiradi",
+"Oynani yopadi",
+"Nusxa oladi"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Ctrl + Shift + T brauzerda nima qiladi?",
+"o": [
+"Brauzerni butunlay yopadi",
+"Sahifani chop etib beradi",
+"Yopilgan yorliqni qaytaradi",
+"Tarixni tozalab tashlaydi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Deploy qilish nimani anglatadi?",
+"o": [
+"Kodni butunlay o'chirish",
+"Yangi fayl yaratish",
+"Xotirani tozalash",
+"Dasturni ishga tushirish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Testlash nima uchun muhim?",
+"o": [
+"Xatoni oldindan topish",
+"Kodni chiroyli qilish",
+"Fayl hajmini oshirish",
+"Rangni o'zgartirish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Agile metodologiyasi nimaga asoslangan?",
+"o": [
+"Bir marta qat'iy rejalashtirish",
+"Bosqichma-bosqich moslashuv",
+"Faqat hujjat tayyorlash",
+"Faqat test o'tkazish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Scrum'dagi 'sprint' nima?",
+"o": [
+"Yugurish musobaqasi turi",
+"Dasturdagi jiddiy xato",
+"Qisqa muddatli ish sikli",
+"Fayl saqlash formati"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Daily standup uchrashuvining maqsadi nima?",
+"o": [
+"Uzoq muhokama o'tkazish",
+"Hisobot yozib topshirish",
+"Dam olib maza qilish",
+"Holatdan xabardor bo'lish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Texnik hujjat nima uchun kerak?",
+"o": [
+"Tizimni tushunishni osonlashtirish",
+"Fayl hajmini oshirish",
+"Kodni sekinlashtirish",
+"Xotirani to'ldirish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Muammoni hal qilishda birinchi qadam nima?",
+"o": [
+"Darhol kod yozishni boshlash",
+"Muammoni aniq tushunib olish",
+"Boshqaga topshirib yuborish",
+"Internetdan nusxa olish"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Xatolik xabarini o'qish nima uchun muhim?",
+"o": [
+"U shunchaki bezak vazifasida",
+"U doim noto'g'ri ma'lumot beradi",
+"U ko'pincha yechimni ko'rsatadi",
+"U faqat dasturchiga tushunarli"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Dasturchi uchun eng muhim ko'nikma qaysi?",
+"o": [
+"Juda tez yozish qobiliyati",
+"Qimmat kompyuterga egalik",
+"Ko'p til yod bilish",
+"Mantiqiy muammo yechish"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Yangi texnologiyani o'rganishning eng samarali yo'li qaysi?",
+"o": [
+"Amaliy loyiha qilib ko'rish",
+"Faqat video tomosha qilish",
+"Faqat kitob o'qib chiqish",
+"Boshqalarni kuzatib turish"
+],
+"c": 0,
+"t": "IT"
+},
+{
+"q": "Portfolio dasturchi uchun nima beradi?",
+"o": [
+"Darhol yuqori maosh",
+"Real ishni ko'rsatish",
+"Diplom o'rnini bosish",
+"Ish beruvchini majburlash"
+],
+"c": 1,
+"t": "IT"
+},
+{
+"q": "Ommaviy Wi-Fi'da nima uchun ehtiyot bo'lish kerak?",
+"o": [
+"Batareya tez tugab qoladi",
+"Telefon qizib ketadi",
+"Ma'lumot o'g'irlanishi mumkin",
+"Ekran qoraya boshlaydi"
+],
+"c": 2,
+"t": "IT"
+},
+{
+"q": "Raqamli iz (digital footprint) nima?",
+"o": [
+"Kompyuter model raqami",
+"Fayl hajmi ko'rsatkichi",
+"Tarmoq tezligi darajasi",
+"Internetda qolgan izingiz"
+],
+"c": 3,
+"t": "IT"
+},
+{
+"q": "Mikki Maus qaysi studiya qahramoni?",
+"o": [
+"Disney",
+"Pixar",
+"DreamWorks",
+"Warner Bros"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Shrek' multfilmidagi bosh qahramon kim?",
+"o": [
+"Ajdaho",
+"Ogr (yirtqich)",
+"Sehrgar",
+"Qirol"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Tom va Jerri'da Jerri kim?",
+"o": [
+"Mushuk",
+"It",
+"Sichqon",
+"Quyon"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Tom va Jerri'da Tom kim?",
+"o": [
+"Sichqon",
+"Quyon",
+"It",
+"Mushuk"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Muzlik davri' multfilmidagi Sid qaysi hayvon?",
+"o": [
+"Yalqov (lenivets)",
+"Mamont",
+"Qilichtish yo'lbars",
+"Sincap"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Muzlik davri'dagi Manni qaysi hayvon?",
+"o": [
+"Yo'lbars",
+"Mamont",
+"Yalqov",
+"Bo'ri"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Sherlar shohi'dagi bosh qahramon nomi nima?",
+"o": [
+"Mufasa",
+"Skar",
+"Simba",
+"Rafiki"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Nemo qidiruvi'da Nemo qanday jonzot?",
+"o": [
+"Toshbaqa",
+"Akula",
+"Meduza",
+"Baliq"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Kung Fu Panda'dagi bosh qahramon nomi nima?",
+"o": [
+"Po",
+"Shifu",
+"Tigress",
+"Oogway"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Madagaskar' multfilmidagi Aleks qaysi hayvon?",
+"o": [
+"Zebra",
+"Sher",
+"Jirafa",
+"Begemot"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Madagaskar'dagi Marti qaysi hayvon?",
+"o": [
+"Sher",
+"Jirafa",
+"Zebra",
+"Pingvin"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Ko'k it' — Paw Patrol seriyasi nima haqida?",
+"o": [
+"Kosmik sayohat haqida",
+"Sport musobaqasi haqida",
+"Maktab hayoti haqida",
+"Qutqaruvchi itlar haqida"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Frozen' (Muzlagan qalb)dagi opa-singil nomlari qaysi?",
+"o": [
+"Elsa va Anna",
+"Belle va Ariel",
+"Mulan va Jasmin",
+"Rapunzel va Tiana"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Frozen'dagi qorbobo nomi nima?",
+"o": [
+"Sven",
+"Olaf",
+"Kristoff",
+"Hans"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Minionlar' qaysi filmdan kelib chiqqan?",
+"o": [
+"Shrek",
+"Madagaskar",
+"Gru (Despicable Me)",
+"Zootropolis"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Zootropolis'dagi bosh qahramon Judi qaysi hayvon?",
+"o": [
+"Tulki",
+"Sher",
+"Bo'ri",
+"Quyon"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Toy Story'dagi kovboy o'yinchoq nomi nima?",
+"o": [
+"Woody",
+"Buzz",
+"Rex",
+"Hamm"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Toy Story'dagi kosmonavt o'yinchoq nomi nima?",
+"o": [
+"Woody",
+"Buzz Lightyear",
+"Slinky",
+"Jessie"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'WALL-E' multfilmidagi bosh qahramon kim?",
+"o": [
+"Kosmonavt",
+"Mushuk",
+"Robot",
+"Bola"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Ratatouille'dagi bosh qahramon Remi qaysi jonzot?",
+"o": [
+"Mushuk",
+"Quyon",
+"It",
+"Kalamush"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Ratatouille' qaysi kasb haqida?",
+"o": [
+"Oshpazlik haqida",
+"Shifokorlik haqida",
+"Muhandislik haqida",
+"O'qituvchilik haqida"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Coco' multfilmi qaysi mamlakat madaniyati haqida?",
+"o": [
+"Yaponiya",
+"Meksika",
+"Hindiston",
+"Misr"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Mulan' multfilmi qaysi mamlakat haqida?",
+"o": [
+"Koreya",
+"Yaponiya",
+"Xitoy",
+"Mongoliya"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Aladdin'dagi sehrli jonzot kim?",
+"o": [
+"Ajdaho",
+"Sehrgar",
+"Farishta",
+"Jin"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Harry Potter'dagi maktab nomi nima?",
+"o": [
+"Xogvarts",
+"Durmstrang",
+"Bobaton",
+"Ilvermorni"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "Harry Potterning eng yaqin ikki do'sti kim?",
+"o": [
+"Draco va Neville",
+"Ron va Germiona",
+"Fred va Jorj",
+"Luna va Ginni"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Uzuklar hukmdori' asari muallifi kim?",
+"o": [
+"C.S. Lewis",
+"George Martin",
+"J.R.R. Tolkien",
+"Philip Pullman"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Spider-Man'ning haqiqiy ismi nima?",
+"o": [
+"Bruce Wayne",
+"Clark Kent",
+"Tony Stark",
+"Peter Parker"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Iron Man'ning haqiqiy ismi nima?",
+"o": [
+"Tony Stark",
+"Steve Rogers",
+"Bruce Banner",
+"Thor Odinson"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Batman'ning haqiqiy ismi nima?",
+"o": [
+"Clark Kent",
+"Bruce Wayne",
+"Barry Allen",
+"Hal Jordan"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Superman'ning haqiqiy ismi nima?",
+"o": [
+"Bruce Wayne",
+"Peter Parker",
+"Clark Kent",
+"Tony Stark"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Avengers' qanday guruh?",
+"o": [
+"Musiqiy jamoa",
+"Sport klubi",
+"Ilmiy markaz",
+"Qahramonlar jamoasi"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Titanic' filmi qaysi voqea haqida?",
+"o": [
+"Kema halokati haqida",
+"Samolyot qulashi haqida",
+"Zilzila haqida",
+"Yong'in haqida"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Jurassic Park' filmi nima haqida?",
+"o": [
+"Kosmik sayohat haqida",
+"Dinozavrlar haqida",
+"Dengiz sarguzashti haqida",
+"Sehr olami haqida"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Star Wars'dagi mashhur qora niqobli qahramon kim?",
+"o": [
+"Yoda",
+"Luke Skywalker",
+"Darth Vader",
+"Han Solo"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Star Wars'dagi kichik yashil ustoz kim?",
+"o": [
+"R2-D2",
+"C-3PO",
+"Chewbacca",
+"Yoda"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Inception' filmi asosan nima haqida?",
+"o": [
+"Tush ichidagi tush haqida",
+"Kosmik urush haqida",
+"Dengiz sayohati haqida",
+"Tarixiy jang haqida"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Interstellar' filmi qaysi mavzuda?",
+"o": [
+"Tarixiy voqealar",
+"Kosmik sayohat",
+"Sport musobaqasi",
+"Detektiv tergov"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Sonic' qaysi hayvon obrazida?",
+"o": [
+"Tulki",
+"Mushuk",
+"Kirpi",
+"Quyon"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Pokemon'dagi eng mashhur sariq qahramon kim?",
+"o": [
+"Charmander",
+"Bulbasaur",
+"Squirtle",
+"Pikachu"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Naruto' qaysi mamlakat animesi?",
+"o": [
+"Yaponiya",
+"Xitoy",
+"Koreya",
+"AQSh"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "Anime qaysi mamlakatda paydo bo'lgan?",
+"o": [
+"Xitoyda",
+"Yaponiyada",
+"Koreyada",
+"Tailandda"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Luntik' multfilmidagi bosh qahramon qayerdan kelgan?",
+"o": [
+"Dengizdan",
+"O'rmondan",
+"Oydan",
+"Cho'ldan"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Masha va Ayiq' multfilmida Masha kim?",
+"o": [
+"Katta ayol",
+"O'rmonchi",
+"O'qituvchi",
+"Kichkina qiz"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Smeshariki' qahramonlari qanday shaklda chizilgan?",
+"o": [
+"Dumaloq shaklda",
+"Uzun va ingichka",
+"To'rtburchak shaklda",
+"Uchburchak shaklda"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Nu, pogodi!' multfilmida kim kimni quvadi?",
+"o": [
+"Mushuk sichqonni",
+"Bo'ri quyonni",
+"It mushukni",
+"Tulki tovuqni"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "Oskar mukofoti qaysi sohada beriladi?",
+"o": [
+"Sport sohasida",
+"Fan sohasida",
+"Kino sohasida",
+"Tibbiyot sohasida"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "Kinoda 'rejissyor' nima bilan shug'ullanadi?",
+"o": [
+"Musiqa yozadi",
+"Aktyorlikni bajaradi",
+"Kamera ko'taradi",
+"Filmni boshqaradi"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "Kinoda 'ssenariy' nima?",
+"o": [
+"Film matni va rejasi",
+"Kamera turi nomi",
+"Yorug'lik uskunasi",
+"Montaj dasturi"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Animatsiya' nima?",
+"o": [
+"Jonli suratga olish",
+"Rasmlarni jonlantirish",
+"Ovoz yozib olish",
+"Matn tarjima qilish"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "Pixar studiyasining birinchi to'liq metrajli multfilmi qaysi?",
+"o": [
+"Nemo qidiruvi",
+"Monstrlar korporatsiyasi",
+"Toy Story",
+"Wall-E"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Studio Ghibli' qaysi mamlakat studiyasi?",
+"o": [
+"Fransiya",
+"Kanada",
+"Koreya",
+"Yaponiya"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Kapitan Amerika'ning qalqoni qanday shaklda?",
+"o": [
+"Dumaloq",
+"To'rtburchak",
+"Uchburchak",
+"Oval"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Hulk' qahramonining rangi qanday?",
+"o": [
+"Ko'k",
+"Yashil",
+"Qizil",
+"Sariq"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Flash' qahramoni qaysi qobiliyati bilan mashhur?",
+"o": [
+"Uchish qobiliyati",
+"Kuch-quvvati",
+"O'ta tezligi",
+"Ko'rinmasligi"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Cinderella' ertagida qahramon nimasini yo'qotadi?",
+"o": [
+"Qo'lqopini",
+"Ro'molini",
+"Tojini",
+"Tuflisini"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "'Uyqudagi go'zal' ertagida qahramonni nima uyg'otadi?",
+"o": [
+"Chin muhabbat",
+"Quyosh nuri",
+"Musiqa sadosi",
+"Qush sayrashi"
+],
+"c": 0,
+"t": "Kino"
+},
+{
+"q": "'Pinokkio'da yolg'on gapirsa nimasi uzayadi?",
+"o": [
+"Qulog'i",
+"Burni",
+"Qo'li",
+"Sochi"
+],
+"c": 1,
+"t": "Kino"
+},
+{
+"q": "'Alisa mo''jizalar mamlakatida' qahramon qayerga tushib qoladi?",
+"o": [
+"Dengizga",
+"Tog'ga",
+"Quyon iniga",
+"O'rmonga"
+],
+"c": 2,
+"t": "Kino"
+},
+{
+"q": "'Uch cho'chqacha' ertagida uylardan qaysi biri eng mustahkam?",
+"o": [
+"Somondan qurilgani",
+"Shoxdan qurilgani",
+"Qumdan qurilgani",
+"G'ishtdan qurilgani"
+],
+"c": 3,
+"t": "Kino"
+},
+{
+"q": "Haqiqiy lider birinchi navbatda kimni boshqaradi?",
+"o": [
+"O'zini",
+"Jamoani",
+"Byudjetni",
+"Vaqtni"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Faol tinglash nimani anglatadi?",
+"o": [
+"Javobni oldindan tayyorlash",
+"Tushunish uchun tinglash",
+"Faqat bosh irg'ab turish",
+"Telefon ko'rib o'tirish"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Empatiya nima?",
+"o": [
+"Boshqaga achinib qarash",
+"Har doim rozi bo'lish",
+"Holatni his qilib tushunish",
+"Muammoni hal qilib berish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Konstruktiv tanqid qanday bo'lishi kerak?",
+"o": [
+"Ommaviy va keskin ohangda",
+"Kinoya bilan aralashtirilgan",
+"Umumiy va noaniq shaklda",
+"Shaxsga emas, ishga qaratilgan"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Fikr-mulohaza berishning eng yaxshi vaqti qachon?",
+"o": [
+"Voqeadan ko'p o'tmay",
+"Bir yildan keyin",
+"Faqat yig'ilishda",
+"Imkon qadar kechroq"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "SMART maqsaddagi 'M' harfi nimani bildiradi?",
+"o": [
+"Katta hajmli",
+"O'lchanadigan",
+"Ko'p bosqichli",
+"Muhim ahamiyatli"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "SMART maqsaddagi 'T' harfi nimani bildiradi?",
+"o": [
+"Qiyin darajali",
+"Jamoaviy shaklda",
+"Muddati belgilangan",
+"Haqiqatga yaqin"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Eyzenxauer matritsasi nimani ajratadi?",
+"o": [
+"Arzon va qimmat ishlarni",
+"Yangi va eski vazifalarni",
+"Katta va kichik loyihalarni",
+"Muhim va shoshilinch ishlarni"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Prokrastinatsiya nima?",
+"o": [
+"Ishni keyinga surish odati",
+"Tez va shoshib ishlash",
+"Batafsil rejalashtirish",
+"Muntazam dam olish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Prokrastinatsiyaga qarshi eng samarali usul qaysi?",
+"o": [
+"Ishni butunlay unutish",
+"Katta ishni bo'laklash",
+"Boshqaga topshirib yuborish",
+"Kayfiyat kelishini kutish"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Pomodoro texnikasi nimaga asoslangan?",
+"o": [
+"Uzoq uxlab dam olishga",
+"Ko'p ovqat yeyishga",
+"Fokus va tanaffus almashuviga",
+"Musiqa tinglab ishlashga"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Delegatsiya (vazifa topshirish) nima beradi?",
+"o": [
+"Mas'uliyatdan qutulish yo'li",
+"Ishdan bosh tortish usuli",
+"Boshqani ayblash imkoni",
+"Jamoani rivojlantirish yo'li"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Yaxshi lider xato qilganda nima qiladi?",
+"o": [
+"Tan olib, tuzatadi",
+"Jamoani ayblab qo'yadi",
+"Boshqalardan yashiradi",
+"Umuman e'tibor bermaydi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Jamoada ishonch qanday quriladi?",
+"o": [
+"Ko'p va'da berish orqali",
+"Aytilganni bajarish orqali",
+"Qattiqqo'llik ko'rsatish orqali",
+"Sovg'a ulashish orqali"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Nizoni hal qilishda birinchi qadam nima?",
+"o": [
+"Darhol hukm chiqarish",
+"Bir tomonni qo'llash",
+"Ikkala tomonni tinglash",
+"E'tiborsiz qoldirish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "O'sish tafakkuri (growth mindset) nimani anglatadi?",
+"o": [
+"Qobiliyat tug'ma beriladi",
+"Xatodan qo'rqish kerak",
+"O'zgarishdan qochish lozim",
+"Qobiliyat mehnat bilan o'sadi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Muvaffaqiyatsizlikka eng to'g'ri munosabat qaysi?",
+"o": [
+"Saboq olib davom etish",
+"Darhol taslim bo'lish",
+"Boshqalarni ayblash",
+"Hammasidan yashirish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Refleksiya (o'z ustida fikr yuritish) nima beradi?",
+"o": [
+"Ortiqcha vaqt sarfini",
+"Xato va yutuqni anglashni",
+"Ruhiy charchoq holatini",
+"Diqqat tarqoqligini"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Kundalik yuritishning asosiy foydasi nima?",
+"o": [
+"Boshqalarga ko'rsatish",
+"Qog'oz sarflab bo'shatish",
+"Fikrni tartibga solish",
+"Vaqtni o'tkazib yuborish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Sog'lom o'z-o'ziga baho qanday bo'ladi?",
+"o": [
+"Faqat maqtovga asoslangan",
+"Faqat qoralashga asoslangan",
+"Umuman e'tibor bermaslik",
+"Kuchli va zaifni real ko'rish"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Nutqqa tayyorgarlikdagi eng muhim qadam qaysi?",
+"o": [
+"Auditoriya va maqsadni aniqlash",
+"Chiroyli kiyim tanlash",
+"Slaydlar sonini ko'paytirish",
+"Mikrofon rangini tanlash"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Sahnada ko'z kontakti nima beradi?",
+"o": [
+"Auditoriyani chalg'itadi",
+"Bog'lanish va ishonch",
+"Vaqtni tejab beradi",
+"Hayajonni kuchaytiradi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Nutqdagi hayajonni kamaytirishning yo'li qaysi?",
+"o": [
+"Tezroq gapirib tugatish",
+"Qog'ozdan o'qib chiqish",
+"Tayyorgarlik va nafas mashqi",
+"Auditoriyaga qaramaslik"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Yaxshi taqdimot slaydi qanday bo'ladi?",
+"o": [
+"To'la matn bilan to'ldirilgan",
+"Juda mayda shriftda yozilgan",
+"Ko'p rangli va tartibsiz",
+"Sodda va kam matnli"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Nutqdagi pauza (jimlik) nima beradi?",
+"o": [
+"Fikrni ta'kidlab beradi",
+"Xatolik hisoblanadi",
+"Auditoriyani zeriktiradi",
+"Vaqtni behuda ketkazadi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Javobini bilmagan savolga eng to'g'ri munosabat qaysi?",
+"o": [
+"O'ylab topib aytib yuborish",
+"Bilmaslikni tan olish",
+"Savolni chetlab o'tish",
+"Savol beruvchini ayblash"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Taqdimotda hikoya (storytelling) nima beradi?",
+"o": [
+"Jiddiylikni yo'qotadi",
+"Auditoriyani chalg'itadi",
+"Ma'lumot yaxshi eslab qolinadi",
+"Vaqtni behuda sarflaydi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Nutqni tugatishning eng samarali usuli qaysi?",
+"o": [
+"Uzr so'rab tugatish",
+"To'satdan to'xtab qolish",
+"Yangi mavzu ochish",
+"Asosiy fikr va chaqiriq"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Dresscode nima uchun ahamiyatli?",
+"o": [
+"Hurmat va jiddiylikni bildiradi",
+"Faqat pul sarflash uchun",
+"Boshqalardan ajralish uchun",
+"Shunchaki rasmiyatchilik uchun"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Rasmiy tadbirga kiyim tanlashdagi asosiy mezon qaysi?",
+"o": [
+"Eng qimmat bo'lishi",
+"Vaziyatga mos bo'lishi",
+"Eng yorqin bo'lishi",
+"Eng yangi moda bo'lishi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Birinchi taassurot qancha vaqtda shakllanadi?",
+"o": [
+"Bir necha kunda",
+"Bir necha soatda",
+"Bir necha soniyada",
+"Bir necha haftada"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Suhbatdoshning gapini bo'lish nimani ko'rsatadi?",
+"o": [
+"Yuksak aql-zakovatni",
+"Chuqur qiziqishni",
+"Tezkor fikrlashni",
+"Hurmatsizlik va sabrsizlikni"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Kechikish odati nimani ko'rsatadi?",
+"o": [
+"Boshqa vaqtini qadrlamaslikni",
+"Haddan tashqari bandlikni",
+"Yuqori mas'uliyat hissini",
+"Mustaqil fikrlash qobiliyatini"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Yig'ilish yoki darsda telefon qanday holatda bo'lishi kerak?",
+"o": [
+"Stolda titrab turgan holda",
+"Ovozsiz va olib qo'yilgan",
+"Qo'lda ushlab turilgan",
+"Doim ochiq va yoniq"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Va'dani bajarish nima uchun muhim?",
+"o": [
+"Shunchaki qoida talabi",
+"Boshqalar ko'rgani uchun",
+"Obro' shundan quriladi",
+"Majburiyat yuklangani uchun"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Uzr so'rashda eng muhim narsa nima?",
+"o": [
+"Sababni uzoq tushuntirish",
+"Boshqani ayblab ketish",
+"Tezroq o'tib ketish",
+"Xatoni tan olib tuzatish"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Yaxshi lider yutuqni qanday taqsimlaydi?",
+"o": [
+"Jamoa bilan bo'lishadi",
+"O'ziga olib qoladi",
+"Hech kimga aytmaydi",
+"E'tiborsiz qoldiradi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Muvaffaqiyatsizlikda yaxshi lider nima qiladi?",
+"o": [
+"Jamoani ayblab chiqadi",
+"Mas'uliyatni o'ziga oladi",
+"Jim turib kutadi",
+"Ishdan bosh tortadi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Motivatsiya so'nganda nima yordam beradi?",
+"o": [
+"Ilhom kelishini kutish",
+"Rejadan butunlay voz kechish",
+"Intizom va odat tizimi",
+"Boshqalarga taqlid qilish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Odat shakllantirishdagi eng muhim omil qaysi?",
+"o": [
+"Bir marta katta harakat",
+"Rejani qog'ozga yozish",
+"Boshqalarga e'lon qilish",
+"Har kuni takrorlash"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Har kuni 1% yaxshilanish tamoyili nimani anglatadi?",
+"o": [
+"Kichik qadam katta natija beradi",
+"Kam ishlash kifoya qiladi",
+"Maqsad qo'yish shart emas",
+"Sekin yurish afzalroqdir"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Ustoz (mentor) nima beradi?",
+"o": [
+"Ishni o'rniga bajarib beradi",
+"Tajriba va yo'nalish ko'rsatadi",
+"Moliyaviy yordam ajratadi",
+"Mas'uliyatni o'ziga oladi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Yaxshi shogird qanday bo'ladi?",
+"o": [
+"Faqat jim tinglab o'tiradi",
+"Hech narsa so'ramaydi",
+"Savol berib, amalda qo'llaydi",
+"Har doim bahslashib turadi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Networking (aloqalar tarmog'i) nima beradi?",
+"o": [
+"Ortiqcha vaqt sarfini",
+"Keraksiz raqobat muhitini",
+"Faqat tanish ko'paytirishni",
+"Imkoniyat va bilim almashuvni"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Yangi tanishuvda yaxshi taassurot nima bilan qoldiriladi?",
+"o": [
+"Samimiy qiziqish bildirish",
+"Ko'p va tez gapirish",
+"Yutuqlarni sanab o'tish",
+"Jim turib kuzatish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Jamoaviy ishdagi 'sinergiya' nimani anglatadi?",
+"o": [
+"Ishni teng bo'lib olishni",
+"Birgalikda kuchli natijani",
+"Ichki raqobat muhitini",
+"Qat'iy nazorat tizimini"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Yig'ilish samarali bo'lishi uchun nima zarur?",
+"o": [
+"Uzoq davom etishi kerak",
+"Ko'p ishtirokchi bo'lishi",
+"Aniq maqsad va kun tartibi",
+"Rasmiy muhit yaratilishi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Yig'ilishdan keyin nima qilish muhim?",
+"o": [
+"Darhol tarqalib ketish",
+"Keyingi yig'ilish belgilash",
+"Hammasini unutib yuborish",
+"Kelishuv va mas'ulni yozish"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Qaror qabul qilishdagi eng katta xato qaysi?",
+"o": [
+"Yetarli ma'lumotsiz shoshilish",
+"Boshqalardan maslahat so'rash",
+"Xavflarni oldindan baholash",
+"Bir necha variant ko'rish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Tanqidiy fikrlash nimani anglatadi?",
+"o": [
+"Hamma narsani inkor qilish",
+"Dalilga tayanib tahlil qilish",
+"Har doim rozi bo'lish",
+"Hech qachon shubhalanmaslik"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Ishonchli manba tanlashda nimaga e'tibor beriladi?",
+"o": [
+"Sarlavha jozibadorligiga",
+"Rasm sifati darajasiga",
+"Muallif, dalil va sanaga",
+"Ko'rishlar soni miqdoriga"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Orqavorotdan gapirish (g'iybat) qanday baholanadi?",
+"o": [
+"Oddiy muloqot usuli",
+"Foydali odat turi",
+"Liderlik belgisi",
+"Axloqan qoralanadi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Halollik lider uchun nima uchun asosiy fazilat?",
+"o": [
+"Ishonch shunga quriladi",
+"Faqat qonun talabi",
+"Ko'rinish uchun kerak",
+"Odat bo'lib qolgan"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Kamtarlik liderga nima beradi?",
+"o": [
+"Obro'sizlik va zaiflik",
+"O'rganishga ochiqlik",
+"Sekin harakat qilish",
+"Qaror qabul qilolmaslik"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Sabr-toqat qiyin vaziyatda nima beradi?",
+"o": [
+"Passiv holatda qolishni",
+"Vaqtni behuda yo'qotishni",
+"To'g'ri qaror imkonini",
+"Mas'uliyatdan qochishni"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Mas'uliyat hissi nimadan boshlanadi?",
+"o": [
+"Yuqori lavozim olishdan",
+"Katta maosh olishdan",
+"Ko'p odam boshqarishdan",
+"Kichik va'dani bajarishdan"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Intizom nima?",
+"o": [
+"Kayfiyatdan qat'i nazar bajarish",
+"Boshqalarni jazolash tizimi",
+"Qattiqqo'l munosabat usuli",
+"Yozilgan qoidalar ro'yxati"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Maqsadni yozib qo'yish nima beradi?",
+"o": [
+"Ortiqcha vaqt sarfini",
+"Aniqlik va bajarilish ehtimolini",
+"Qog'oz behuda sarflanishini",
+"Boshqalarga ko'rsatish imkonini"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Ustuvorlik (prioritet) belgilash nima uchun kerak?",
+"o": [
+"Ko'proq ish bajarish uchun",
+"Boshqalarni ortda qoldirish",
+"Vaqtni muhimga yo'naltirish",
+"Chiroyli reja tuzish uchun"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "'Yo'q' deya olish ko'nikmasi nima beradi?",
+"o": [
+"Munosabatlarni buzib qo'yadi",
+"Dangasalikni oshiradi",
+"Mas'uliyatsizlikni ko'rsatadi",
+"Energiyani muhimga yo'naltiradi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Bir vaqtda ko'p ish qilish (multitasking) haqida to'g'ri fikr qaysi?",
+"o": [
+"Sifat va diqqatni pasaytiradi",
+"Har doim vaqtni tejaydi",
+"Hech qachon charchatmaydi",
+"Doim samaradorlikni oshiradi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Chuqur ish (deep work) nima?",
+"o": [
+"Tunda uzoq ishlash odati",
+"Chalg'imay bir ishga fokus",
+"Jamoa bilan birga ishlash",
+"Ko'p vazifani birga bajarish"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Uyqu yetishmasligi ishga qanday ta'sir qiladi?",
+"o": [
+"Umuman ta'sir qilmaydi",
+"Samaradorlikni oshiradi",
+"Diqqat va qarorni pasaytiradi",
+"Faqat kayfiyatga ta'sir qiladi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Jismoniy faollik aqliy mehnatga qanday ta'sir qiladi?",
+"o": [
+"Faqat charchoq keltiradi",
+"Hech qanday ta'sir yo'q",
+"Diqqatni pasaytirib yuboradi",
+"Energiya va diqqatni oshiradi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Stressni boshqarishda foydali usul qaysi?",
+"o": [
+"Nafas mashqi va dam olish",
+"Muammoni yashirib qo'yish",
+"Yanada ko'proq ishlash",
+"Yordamdan voz kechish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Qiyin paytda yordam so'rash nimani ko'rsatadi?",
+"o": [
+"Layoqatsizlik alomatini",
+"Etuklik va o'zini anglashni",
+"Dangasalik odatini",
+"Ishonchsizlik holatini"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Boshqalarni ilhomlantirishning eng kuchli yo'li qaysi?",
+"o": [
+"Ko'p va chiroyli gapirish",
+"Qat'iy buyruq berish",
+"Shaxsiy o'rnak bo'lish",
+"Mukofot va'da qilish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Lider jamoa a'zosining o'sishini qanday qo'llab-quvvatlaydi?",
+"o": [
+"Hamma ishni o'zi bajarib",
+"Nazoratni kuchaytirib",
+"Doimiy tanqid qilib",
+"Imkoniyat berib, ishonib"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Jamoada 'psixologik xavfsizlik' nimani anglatadi?",
+"o": [
+"Fikr aytishdan qo'rqmaslik",
+"Jismoniy himoya ta'minoti",
+"Maxfiylik shartnomasi",
+"Sug'urta qoplamasi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Jamoa a'zosi xato qilsa, yaxshi lider nima qiladi?",
+"o": [
+"Ommaviy tanqid qiladi",
+"Yakkama-yakka gaplashadi",
+"Darhol jazo qo'llaydi",
+"Umuman e'tibor bermaydi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "E'tirof (maqtash) qanday bo'lgani samarali?",
+"o": [
+"Umumiy va noaniq shaklda",
+"Juda kam va nodir hollarda",
+"Aniq ishni ko'rsatib, o'z vaqtida",
+"Faqat yozma ko'rinishda"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Menejment va liderlik farqi nimada?",
+"o": [
+"Hech qanday farqi yo'q",
+"Liderlik faqat hujjat ishi",
+"Menejment faqat nutq san'ati",
+"Biri jarayonni, biri odamni"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "O'zgarishga qarshilikning asosiy sababi nima?",
+"o": [
+"Noma'lumlikdan qo'rqish",
+"Ortiqcha bilim va tajriba",
+"Resurslarning ko'pligi",
+"Muloqotning yaxshiligi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Innovatsiya nimadan boshlanadi?",
+"o": [
+"Katta byudjet ajratishdan",
+"Muammoni sezib savol berishdan",
+"Yangi texnika sotib olishdan",
+"Ko'p xodim yollashdan"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "'5 marta nega?' usuli nima uchun ishlatiladi?",
+"o": [
+"Bahs boshlash uchun",
+"Hisobot yozish uchun",
+"Asl sababni topish uchun",
+"Vaqt o'tkazish uchun"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Moliyaviy savodxonlikning asosiy qoidasi qaysi?",
+"o": [
+"Imkon qadar ko'p qarz olish",
+"Butun daromadni sarflash",
+"Rejasiz yashab yurish",
+"Daromaddan kam sarflash"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Zaxira jamg'arma nima uchun kerak?",
+"o": [
+"Kutilmagan holatda himoya",
+"Maqtanish uchun vosita",
+"Soliq to'lash majburiyati",
+"Tezroq sarflash imkoni"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Vaqt nima uchun eng qimmatli resurs?",
+"o": [
+"U juda ko'p va cheksiz",
+"Uni qaytarib bo'lmaydi",
+"U juda arzon turadi",
+"Uni o'lchab bo'lmaydi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Qaysarlik va qat'iyat orasidagi farq nimada?",
+"o": [
+"Ular butunlay bir xil narsa",
+"Qaysarlik ancha foydaliroq",
+"Qat'iyat dalilga qarab moslashadi",
+"Qat'iyat zaiflik belgisidir"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Boshqaning muvaffaqiyatiga to'g'ri munosabat qaysi?",
+"o": [
+"Ichdan hasad qilish",
+"Umuman e'tibor bermaslik",
+"Kamsitib baho berish",
+"Quvonib, undan o'rganish"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "O'zini boshqalar bilan taqqoslashning zarari nima?",
+"o": [
+"O'z yo'lidan chalg'itadi",
+"Foydali motivatsiya beradi",
+"Aniqlik olib keladi",
+"Hech qanday zarari yo'q"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Sog'lom raqobat qanday bo'ladi?",
+"o": [
+"Raqibni yiqitishga qaratilgan",
+"O'zining kechagisidan o'zish",
+"Yashirin harakat qilish",
+"Doimiy tanqid qilish"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Hissiy intellekt (EQ) nimani o'z ichiga oladi?",
+"o": [
+"Matematik hisoblash tezligi",
+"Katta hajmli xotira",
+"His-tuyg'uni anglash va boshqarish",
+"Jismoniy chidamlilik darajasi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "G'azab kelganda eng to'g'ri harakat qaysi?",
+"o": [
+"Darhol javob qaytarish",
+"Ovozni ko'tarib gapirish",
+"Butunlay ketib qolish",
+"To'xtab, nafas olib javob berish"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Xabar yuborishdan oldin nima qilish yaxshi?",
+"o": [
+"Qayta o'qib, ohangni tekshirish",
+"Imkon qadar uzun yozish",
+"Ko'proq emoji qo'shish",
+"Darhol yuborib yuborish"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Fazilatli lider uchun eng asosiy mezon nima?",
+"o": [
+"Egallagan lavozimi darajasi",
+"So'zi bilan ishining birligi",
+"Olayotgan daromadi miqdori",
+"Tanishlari sonining ko'pligi"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Proaktiv odam reaktiv odamdan nimasi bilan farq qiladi?",
+"o": [
+"Tezroq gapirib beradi",
+"Ko'proq reja tuzadi",
+"O'zi tashabbus ko'rsatadi",
+"Ko'proq vaqt sarflaydi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "'Ta'sir doirasi' tamoyili nimani o'rgatadi?",
+"o": [
+"Hamma narsani nazorat qilish",
+"Umuman harakat qilmaslik",
+"Boshqalarni ayblab yurish",
+"O'zgartira oladiganga e'tibor"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Xatolarga eng etuk munosabat qaysi?",
+"o": [
+"Xato — o'rganish uchun ma'lumot",
+"Xato — sharmandalik belgisi",
+"Xato — omadsizlik alomati",
+"Xato — boshqaning aybi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Kitob o'qib bo'lgach nima qilish eng foydali?",
+"o": [
+"Darhol keyingisini boshlash",
+"Asosiy fikrni amalda qo'llash",
+"Hammasini unutib yuborish",
+"Boshqalarga maqtab yurish"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Yangi ko'nikma o'rganishdagi eng katta to'siq nima?",
+"o": [
+"Resurslarning yetishmasligi",
+"Vaqtning cheklanganligi",
+"Boshida yomon bo'lishdan qo'rquv",
+"Yoshning ulg'ayganligi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Kichik g'alabalarni nishonlash nima beradi?",
+"o": [
+"Dangasalikka olib keladi",
+"Vaqtni behuda ketkazadi",
+"Hech qanday foyda bermaydi",
+"Motivatsiya va ishonch beradi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Bilimni boshqalar bilan bo'lishish nimaga olib keladi?",
+"o": [
+"O'zingiz mustahkam o'rganasiz",
+"Bilimingiz kamayib boradi",
+"Ortiqcha raqobat tug'iladi",
+"Obro'ingizga zarar yetadi"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Jamoa madaniyatini asosan kim shakllantiradi?",
+"o": [
+"Faqat yozilgan qoidalar",
+"Lider o'z xatti-harakati bilan",
+"Faqat kadrlar bo'limi",
+"Umuman hech kim emas"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "'Xizmatkor lider' qanday lider hisoblanadi?",
+"o": [
+"Faqat buyruq beruvchi",
+"Uzoqdan nazorat qiluvchi",
+"Jamoaga xizmat qilib o'stiruvchi",
+"Hisobot talab qiluvchi"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Lider uchun eng katta sinov qachon bo'ladi?",
+"o": [
+"Yig'ilish o'tkazayotganda",
+"Dam olish paytida",
+"Muvaffaqiyat cho'qqisida",
+"Qiyinchilik va inqiroz paytida"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "Jamoada turlicha fikr bo'lishi nima beradi?",
+"o": [
+"Yaxshiroq qaror va g'oyalar",
+"Faqat nizo va janjal",
+"Ortiqcha vaqt sarfi",
+"Hech qanday foyda yo'q"
+],
+"c": 0,
+"t": "Liderlik"
+},
+{
+"q": "Yaxshi lider ko'proq qaysi savolni beradi?",
+"o": [
+"'Kim aybdor bo'ldi?'",
+"'Qanday yordam bera olaman?'",
+"'Nega bajarmadingiz?'",
+"'Nima uchun sekin ishlaysiz?'"
+],
+"c": 1,
+"t": "Liderlik"
+},
+{
+"q": "Loyihada muddat baholashda eng oqilona yondashuv qaysi?",
+"o": [
+"Eng qisqa muddatni aytish",
+"Muddat umuman aytmaslik",
+"Zaxira vaqt bilan belgilash",
+"Mijozdan yashirib qo'yish"
+],
+"c": 2,
+"t": "Liderlik"
+},
+{
+"q": "Minnatdorchilik bildirish nima beradi?",
+"o": [
+"Zaiflik taassurotini",
+"Ortiqcha vaqt sarfini",
+"Hech qanday natijani",
+"Munosabatni mustahkamlaydi"
+],
+"c": 3,
+"t": "Liderlik"
+},
+{
+"q": "2, 4, 8, 16, ... — keyingi son qaysi?",
+"o": [
+"32",
+"24",
+"20",
+"64"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "1, 4, 9, 16, ... — keyingi son qaysi?",
+"o": [
+"20",
+"25",
+"24",
+"30"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "3, 6, 9, 12, ... — keyingi son qaysi?",
+"o": [
+"16",
+"14",
+"15",
+"18"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "1, 1, 2, 3, 5, 8, ... — keyingi son qaysi?",
+"o": [
+"11",
+"12",
+"10",
+"13"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "100, 50, 25, ... — keyingi son qaysi?",
+"o": [
+"12.5",
+"20",
+"15",
+"10"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "2, 5, 11, 23, ... — keyingi son qaysi?",
+"o": [
+"46",
+"47",
+"45",
+"48"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Bugun payshanba bo'lsa, 3 kundan keyin qaysi kun?",
+"o": [
+"Shanba",
+"Juma",
+"Yakshanba",
+"Dushanba"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Bugun dushanba bo'lsa, 10 kundan keyin qaysi kun?",
+"o": [
+"Chorshanba",
+"Payshanba",
+"Shanba",
+"Juma"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Otangizning o'g'li, lekin sizning akangiz emas. U kim?",
+"o": [
+"O'zim",
+"Amakim",
+"Jiyanim",
+"Tog'am"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "5 ta mushuk 5 daqiqada 5 ta sichqon tutadi. 100 ta mushuk 100 ta sichqonni necha daqiqada tutadi?",
+"o": [
+"100 daqiqada",
+"5 daqiqada",
+"20 daqiqada",
+"50 daqiqada"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Bir g'ishtning og'irligi 1 kg va yarim g'isht. G'isht necha kg?",
+"o": [
+"1.5 kg",
+"1 kg",
+"2 kg",
+"3 kg"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Xonada 3 ta sham yonardi. 2 tasi o'chdi. Nechta sham qoldi?",
+"o": [
+"1 ta",
+"0 ta",
+"3 ta",
+"2 ta"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Cho'ntagimda 2 ta tanga bor, jami 30 so'm. Biri 20 so'm emas. Ular qaysi?",
+"o": [
+"10 va 20 so'm",
+"15 va 15 so'm",
+"25 va 5 so'm",
+"20 va 10 tiyin"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Barcha gullar o'simlik. Ba'zi o'simliklar qizil. Xulosa to'g'rimi: 'Ba'zi gullar qizil'?",
+"o": [
+"Ha, albatta to'g'ri",
+"Yo'q, kelib chiqmaydi",
+"Har doim to'g'ri",
+"Faqat bahorda to'g'ri"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Barcha A — B. Barcha B — C. Demak:",
+"o": [
+"Barcha C — A",
+"Hech bir A — C emas",
+"Barcha A — C",
+"Ba'zi C — A emas"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Agar yomg'ir yog'sa, yer ho'l bo'ladi. Yer ho'l. Xulosa nima?",
+"o": [
+"Albatta yomg'ir yog'gan",
+"Yomg'ir yog'magan",
+"Yomg'ir hozir yog'yapti",
+"Aniq aytib bo'lmaydi"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Ali Vali'dan baland, Vali Sami'dan baland. Eng past kim?",
+"o": [
+"Sami",
+"Vali",
+"Ali",
+"Aniq emas"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Poyezd 60 km/soat tezlikda 90 km yo'lni qancha vaqtda bosadi?",
+"o": [
+"2 soat",
+"1.5 soat",
+"1 soat",
+"2.5 soat"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Kitob 24 000 so'm. 25% chegirma bilan narxi qancha?",
+"o": [
+"20 000 so'm",
+"19 000 so'm",
+"18 000 so'm",
+"16 000 so'm"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Bir ish 6 kishi tomonidan 12 kunda bajariladi. 12 kishi necha kunda bajaradi?",
+"o": [
+"12 kun",
+"24 kun",
+"3 kun",
+"6 kun"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Soat 3:00 da soat va daqiqa strelkalari orasidagi burchak nechchi gradus?",
+"o": [
+"90 gradus",
+"60 gradus",
+"120 gradus",
+"45 gradus"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Kvadratning tomoni 2 marta oshsa, yuzasi necha marta oshadi?",
+"o": [
+"2 marta",
+"4 marta",
+"3 marta",
+"8 marta"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Bir gala qo'yda 20 ta bosh bor, 60 ta oyoq. Nechta qo'y?",
+"o": [
+"10 ta",
+"20 ta",
+"15 ta",
+"30 ta"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Sonlarni davom ettiring: 1, 3, 6, 10, 15, ...",
+"o": [
+"18",
+"20",
+"19",
+"21"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Bir odam har kuni 1 metr chuqurroq quduq qaziydi. 5-kuni quduq necha metr?",
+"o": [
+"5 metr",
+"4 metr",
+"6 metr",
+"10 metr"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "12 ta olmani 4 kishiga teng bo'lsak, har biriga nechtadan tegadi?",
+"o": [
+"4 ta",
+"3 ta",
+"2 ta",
+"6 ta"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Agar 5 ta daftar 15 000 so'm bo'lsa, 8 ta daftar qancha?",
+"o": [
+"20 000 so'm",
+"22 000 so'm",
+"24 000 so'm",
+"30 000 so'm"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Bir necha qavatli binoda 1-qavatdan 3-qavatga chiqish 40 soniya. 1-dan 5-qavatga qancha?",
+"o": [
+"100 soniya",
+"60 soniya",
+"70 soniya",
+"80 soniya"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Qaysi biri ortiqcha: olma, nok, sabzi, uzum?",
+"o": [
+"Sabzi",
+"Olma",
+"Nok",
+"Uzum"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Qaysi biri ortiqcha: it, mushuk, ot, burgut?",
+"o": [
+"Ot",
+"Burgut",
+"It",
+"Mushuk"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Qaysi biri ortiqcha: kvadrat, uchburchak, doira, kub?",
+"o": [
+"Doira",
+"Kvadrat",
+"Kub",
+"Uchburchak"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Qaysi biri ortiqcha: Toshkent, Samarqand, Buxoro, Osiyo?",
+"o": [
+"Buxoro",
+"Toshkent",
+"Samarqand",
+"Osiyo"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "'Kitob — o'qish' bo'lsa, 'ovqat — ?'",
+"o": [
+"Yeyish",
+"Pishirish",
+"Sotish",
+"Saqlash"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "'Qush — uchish' bo'lsa, 'baliq — ?'",
+"o": [
+"Yugurish",
+"Suzish",
+"Sakrash",
+"Sudralish"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "'Shifokor — kasalxona' bo'lsa, 'o'qituvchi — ?'",
+"o": [
+"Dorixona",
+"Do'kon",
+"Maktab",
+"Zavod"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "'Issiq — sovuq' bo'lsa, 'yorug' — ?'",
+"o": [
+"Katta",
+"Baland",
+"Tez",
+"Qorong'i"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Bir stakan suvni ikkiga bo'lsak, har birida nima bo'ladi?",
+"o": [
+"Yarim stakan suv",
+"Bir stakan suv",
+"Ikki stakan suv",
+"Suv qolmaydi"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Otasi bilan o'g'li birga 60 yosh. Ota o'g'lidan 30 yosh katta. O'g'il necha yoshda?",
+"o": [
+"20 yoshda",
+"15 yoshda",
+"25 yoshda",
+"30 yoshda"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Bir savatda 10 ta tuxum bor. 3 tasi sindi, 2 tasi ishlatildi. Nechta butun tuxum qoldi?",
+"o": [
+"7 ta",
+"6 ta",
+"5 ta",
+"8 ta"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Dehqonda 17 ta qo'y bor edi. 9 tasidan boshqasi nobud bo'ldi. Nechtasi qoldi?",
+"o": [
+"8 ta",
+"17 ta",
+"0 ta",
+"9 ta"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Yilning qaysi oyida 28 kun bo'ladi?",
+"o": [
+"Hamma oyda",
+"Faqat fevralda",
+"Faqat aprelda",
+"Hech qaysi oyda"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Ikki ota va ikki o'g'il baliq ovladi, har biri 1 tadan. Jami 3 ta baliq. Qanday?",
+"o": [
+"Biri ikkitasini tashladi",
+"Ota, o'g'il va nabira edi",
+"Biri baliq tutmadi",
+"Hisobda xato bor"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Qaysi biri og'irroq: 1 kg paxta yoki 1 kg temir?",
+"o": [
+"Temir og'irroq",
+"Paxta og'irroq",
+"Ikkalasi teng",
+"Aniqlab bo'lmaydi"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Sonlar: 8, 27, 64, ... Keyingisi qaysi?",
+"o": [
+"100",
+"81",
+"144",
+"125"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Agar barcha talabalar yosh bo'lsa va Ali talaba bo'lsa, xulosa nima?",
+"o": [
+"Ali yosh",
+"Ali yosh emas",
+"Aniqlab bo'lmaydi",
+"Ali talaba emas"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Hech bir baliq quruqlikda yashamaydi. Delfin quruqlikda yashamaydi. Delfin baliqmi?",
+"o": [
+"Ha, albatta baliq",
+"Bunday xulosa chiqmaydi",
+"Yo'q, hech qachon",
+"Faqat ba'zan baliq"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Soat 15:45 ni 12 soatlik formatda qanday o'qiladi?",
+"o": [
+"5:45 kechqurun",
+"4:45 kechqurun",
+"3:45 kechqurun",
+"6:45 kechqurun"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Bir yilda necha hafta bor (taxminan)?",
+"o": [
+"48 hafta",
+"50 hafta",
+"54 hafta",
+"52 hafta"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Uchburchak ichki burchaklari yig'indisi nechchi gradus?",
+"o": [
+"180 gradus",
+"360 gradus",
+"90 gradus",
+"270 gradus"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "To'rtburchak ichki burchaklari yig'indisi nechchi gradus?",
+"o": [
+"180 gradus",
+"360 gradus",
+"270 gradus",
+"540 gradus"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Agar A > B va B > C bo'lsa, quyidagilardan qaysi biri to'g'ri?",
+"o": [
+"C > A",
+"A = C",
+"A > C",
+"B > A"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "20 ning 15 foizi nechchi?",
+"o": [
+"2",
+"4",
+"5",
+"3"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Bir sonning yarmi 18 bo'lsa, o'zi nechchi?",
+"o": [
+"36",
+"24",
+"9",
+"30"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Sonlar: 2, 3, 5, 7, 11, ... Keyingisi qaysi?",
+"o": [
+"12",
+"13",
+"14",
+"15"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Bu sonlar qanday sonlar: 2, 3, 5, 7, 11?",
+"o": [
+"Juft sonlar",
+"Kvadrat sonlar",
+"Tub sonlar",
+"Manfiy sonlar"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Zinapoyada 10 ta zina bor. Har qadamda 2 ta zina oshsangiz, necha qadamda chiqasiz?",
+"o": [
+"10 qadam",
+"20 qadam",
+"8 qadam",
+"5 qadam"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Bir kitobning 1/4 qismi 50 bet. Kitob necha betdan iborat?",
+"o": [
+"200 bet",
+"150 bet",
+"100 bet",
+"250 bet"
+],
+"c": 0,
+"t": "Mantiq"
+},
+{
+"q": "Agar bugun juma bo'lsa, kechagi kunning ertasi qaysi kun edi?",
+"o": [
+"Payshanba",
+"Juma",
+"Shanba",
+"Chorshanba"
+],
+"c": 1,
+"t": "Mantiq"
+},
+{
+"q": "Qutida 3 ta qizil va 2 ta ko'k shar bor. Bittasini olsak, qizil chiqish ehtimoli qancha?",
+"o": [
+"2 dan 5",
+"1 dan 2",
+"3 dan 5",
+"1 dan 5"
+],
+"c": 2,
+"t": "Mantiq"
+},
+{
+"q": "Bir mashina 4 soatda 240 km yurdi. O'rtacha tezligi qancha?",
+"o": [
+"50 km/soat",
+"70 km/soat",
+"80 km/soat",
+"60 km/soat"
+],
+"c": 3,
+"t": "Mantiq"
+},
+{
+"q": "Nima gapirmaydi, lekin javob beradi?",
+"o": [
+"Aks-sado",
+"Kitob",
+"Soat",
+"Oyna"
+],
+"c": 0,
+"t": "Mantiq"
+	},
+	{
+		"q": "36 + 27 nechaga teng?",
+		"o": ["61", "62", "63", "64"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "8 × 7 nechaga teng?",
+		"o": ["54", "56", "58", "64"],
+		"c": 1,
+		"t": "Matem"
+	},
+	{
+		"q": "144 ni 12 ga bo'lsak, javob qancha bo'ladi?",
+		"o": ["10", "11", "12", "14"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "150 ning 20 foizi qancha?",
+		"o": ["20", "25", "30", "35"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "Tomoni 5 sm bo'lgan kvadratning perimetri qancha?",
+		"o": ["10 sm", "15 sm", "20 sm", "25 sm"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "2 ning 5-darajasi nechaga teng?",
+		"o": ["16", "25", "32", "64"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "3/4 ga 1/4 ni qo'shsak, nima hosil bo'ladi?",
+		"o": ["1/2", "3/4", "1", "1 1/4"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "1 kilometr necha metr?",
+		"o": ["100", "500", "1000", "10000"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "Bo'yi 8 sm, eni 4 sm bo'lgan to'g'ri to'rtburchakning yuzi qancha?",
+		"o": ["24 sm²", "28 sm²", "32 sm²", "36 sm²"],
+		"c": 2,
+		"t": "Matem"
+	},
+	{
+		"q": "7 + (-3) nechaga teng?",
+		"o": ["3", "4", "5", "10"],
+		"c": 1,
+		"t": "Matem"
+	},
+	{
+		"q": "'Child' so'zining ko'plik shakli qaysi?",
+		"o": ["Childs", "Children", "Childes", "Childrens"],
+		"c": 1,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'Go' fe'lining Past Simple shakli qaysi?",
+		"o": ["Goed", "Gone", "Went", "Going"],
+		"c": 2,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'___ apple' birikmasida qaysi artikl ishlatiladi?",
+		"o": ["A", "An", "The only", "Artiklsiz"],
+		"c": 1,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'Hot' so'zining antonimi qaysi?",
+		"o": ["Warm", "Cold", "Big", "Fast"],
+		"c": 1,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'She ___ reading now' gapini to'ldiring.",
+		"o": ["am", "are", "is", "be"],
+		"c": 2,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'Tall' sifatining qiyosiy darajasi qaysi?",
+		"o": ["Tallest", "More tall", "Taller", "Most tall"],
+		"c": 2,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'Interested ___ music' birikmasini to'ldiring.",
+		"o": ["at", "in", "on", "for"],
+		"c": 1,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'Ali and I' o'rnida qaysi olmosh ishlatiladi?",
+		"o": ["We", "They", "You", "He"],
+		"c": 0,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'She has ___ her homework' gapini to'ldiring.",
+		"o": ["finish", "finishing", "finished", "finishes"],
+		"c": 2,
+		"t": "Ingliz"
+	},
+	{
+		"q": "'I have lived here ___ 2020' gapini to'ldiring.",
+		"o": ["for", "since", "during", "from"],
+		"c": 1,
+		"t": "Ingliz"
+}
+]

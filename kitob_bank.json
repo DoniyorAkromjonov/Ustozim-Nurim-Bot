@@ -1,0 +1,1946 @@
+[
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "«Ilm olish sirlari» kitobining asl muallifi kim?",
+  "o": [
+   "Imom Zarnujiy",
+   "Imom G'azzoliy",
+   "Burhoniddin Marg'inoniy",
+   "Imom Saraxsiy"
+  ],
+  "c": 0
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Kitobning arabcha asl nomi qanday?",
+  "o": [
+   "Kitobun-nasihati lil mutaallimin",
+   "Ta'limul muta'allim tariq at-ta'allum",
+   "Makorimul axloq val odobi lit-tolib",
+   "Manoqibu fazlil ilmi val ulamo"
+  ],
+  "c": 1
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Kitob o'zbek tiliga kim tomonidan o'girilgan?",
+  "o": [
+   "Alouddin Mansur",
+   "Shayx Muhammad Sodiq",
+   "Zokirjon Sharifov",
+   "Abdulaziz Mansur"
+  ],
+  "c": 2
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Muallif kitobni necha faslga bo'lgan?",
+  "o": [
+   "O'n bir",
+   "O'n besh",
+   "O'n olti",
+   "O'n uch"
+  ],
+  "c": 3
+ },
+ {
+  "f": 1,
+  "k": "sabab",
+  "q": "Muallifning fikricha, insonga qaysi ilmni bilish farz qilinadi?",
+  "o": [
+   "Hozir bajarilishi lozim amalning ilmini",
+   "Barcha mavjud diniy ilmlarni to'liq hajmda",
+   "Faqat aqida va tavhidga oid ilmlarni",
+   "Avval tib, so'ng fiqh ilmini ketma-ket"
+  ],
+  "c": 0
+ },
+ {
+  "f": 1,
+  "k": "iqtibos",
+  "q": "«Ilmning afzali hol ilmini bilmoqdir» degan fikr kimga tegishli?",
+  "o": [
+   "Faqat Imom Shofi'iyga",
+   "Mashoyixlarimizga",
+   "Imom Buxoriyga",
+   "Xoja Ahmad Yassaviyga"
+  ],
+  "c": 1
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Imom Muhammad ibn Hasandan zohidlik haqida kitob so'raganlarida u nima deb javob bergan?",
+  "o": [
+   "Bu mavzuda yozish menga nasib etmadi",
+   "Ustozimdan ruxsat olishim kerak",
+   "Savdo-sotiq haqida kitob yozdim",
+   "Bu ilm yozib bo'lmaydigan ilmdir"
+  ],
+  "c": 2
+ },
+ {
+  "f": 1,
+  "k": "sabab",
+  "q": "Kitobga ko'ra, farishtalar hazrati Odamga sajda qilishga nima sabab bo'ldi?",
+  "o": [
+   "Uning ibodati",
+   "Uning yoshi",
+   "Uning kuchi",
+   "Uning ilmi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 1,
+  "k": "iqtibos",
+  "q": "Masjid oldida noumid turgan shayton haqidagi voqeadan so'ng Rasululloh (s.a.v.) nima dedilar?",
+  "o": [
+   "Bir olim ming obiddan afzalroqdir",
+   "Masjidda uxlash makruhdir",
+   "Shaytondan Allohga panoh tilanglar",
+   "Omiyni yolg'iz qoldirmanglar"
+  ],
+  "c": 0
+ },
+ {
+  "f": 1,
+  "k": "amaliy",
+  "q": "Kitobga ko'ra, ilmi nujum (yulduzlar ilmi) qachon o'rganish joiz bo'ladi?",
+  "o": [
+   "Kelajakdan xabar berish maqsadida",
+   "Qibla va namoz vaqtini aniqlash uchun",
+   "Har qanday holatda mutlaqo joiz sanaladi",
+   "Faqat olimlar uchun joiz hisoblanadi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Imom Shofi'iyning fikricha, ilm necha xil va qaysilar?",
+  "o": [
+   "Uch xil: aqida, fiqh, tasavvuf",
+   "Ikki xil: nazariy va amaliy",
+   "Ikki xil: fiqh va tib",
+   "To'rt xil: har mazhabga bir"
+  ],
+  "c": 2
+ },
+ {
+  "f": 1,
+  "k": "fakt",
+  "q": "Farzi kifoya nima degani?",
+  "o": [
+   "Har bir insonga alohida-alohida farz amal",
+   "Faqat olimlar zimmasiga yuklatilgan amal",
+   "Bajarilishi shart bo'lmagan ixtiyoriy amal",
+   "Bir kishi bajarsa qolganidan soqit amal"
+  ],
+  "c": 3
+ },
+ {
+  "f": 1,
+  "k": "iqtibos",
+  "q": "Imom A'zam Abu Hanifa fiqhga qanday ta'rif bergan?",
+  "o": [
+   "Nima foydali, nima zararli ekanini bilmoq",
+   "Hadislarni yod olmoq va rivoyat qilmoq",
+   "Arab tili qoidalarini mukammal egallamoq",
+   "Halol va harom narsalar ro'yxatini tuzmoq"
+  ],
+  "c": 0
+ },
+ {
+  "f": 2,
+  "k": "fakt",
+  "q": "«Innamal a'molu binniyati» hadisini kim rivoyat qilgan?",
+  "o": [
+   "Imom Muslim",
+   "Imom Buxoriy",
+   "Imom Termiziy",
+   "Imom Molik"
+  ],
+  "c": 1
+ },
+ {
+  "f": 2,
+  "k": "sabab",
+  "q": "Kitobga ko'ra, dunyoviy amal qanday qilib oxirat amaliga aylanadi?",
+  "o": [
+   "Uni ko'p marta takrorlash orqali",
+   "Uni yashirin bajarish orqali",
+   "Niyatning yaxshi va to'g'ri bo'lishi orqali",
+   "Uni sadaqa bilan qo'shib bajarish orqali"
+  ],
+  "c": 2
+ },
+ {
+  "f": 2,
+  "k": "fakt",
+  "q": "«Hidoya» kitobining muallifi kim?",
+  "o": [
+   "Imom Saraxsiy hazratlari",
+   "Faxriddin Qozixon hazratlari",
+   "Najmiddin Nasafiy hazratlari",
+   "Burhoniddin Marg'inoniy hazratlari"
+  ],
+  "c": 3
+ },
+ {
+  "f": 2,
+  "k": "iqtibos",
+  "q": "«Ilmni kim vositai joh etar, o'ziniyu xalqni gumroh etar» baytining ma'nosi nima?",
+  "o": [
+   "Ilmni mansab vositasi qilgan xalqni adashtiradi",
+   "Ilmni yashirgan kishi jaholat botqog'iga qaytadi",
+   "Ilm o'rganmagan odam xalqqa yuk bo'lib qoladi",
+   "Ilmni pul evaziga o'rgatish harom qilingandir"
+  ],
+  "c": 0
+ },
+ {
+  "f": 2,
+  "k": "taqqos",
+  "q": "Kitobga ko'ra, beamal olim va johil obid haqida nima deyilgan?",
+  "o": [
+   "Beamal olim johil obiddan afzalroq sanaladi",
+   "Har ikkovi diyonatli insonga ulug' fitnadir",
+   "Johil obid hech qachon zarar keltirmaydi",
+   "Faqat beamal olim zararli hisoblanadi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 2,
+  "k": "fakt",
+  "q": "Imom Muhammad ibn Hasan odamlar unga qul bo'lganda nima qilishini aytgan?",
+  "o": [
+   "Ularni dehqonchilik ishlariga jalb qilardim",
+   "Ularni savdo-sotiq ishlariga o'rgatardim",
+   "Ularni ozod qilib, ilm o'rgansinlar der edim",
+   "Ularni masjid qurilishiga safarbar etardim"
+  ],
+  "c": 2
+ },
+ {
+  "f": 2,
+  "k": "iqtibos",
+  "q": "«Oxiratni dedim, fayzu-zafar topdim, Dunyoni dedim, xavfu-xatar topdim» — bu bayt kimdan keltirilgan?",
+  "o": [
+   "So'fiy Allohyordan",
+   "Boborahim Mashrabdan",
+   "Abu Toyyibdan",
+   "Hammod ibn Ibrohimdan"
+  ],
+  "c": 3
+ },
+ {
+  "f": 2,
+  "k": "taqqos",
+  "q": "Ilm hosil qilish va hol ilmiga erishish qanday o'xshatish bilan tushuntirilgan?",
+  "o": [
+   "Igna bilan va kiprik bilan quduq qazishga",
+   "Tog'ga chiqish va dengizga sho'ng'ishga",
+   "Piyoda va otliq safar qilishga",
+   "Kunduzgi va kechki mehnatga"
+  ],
+  "c": 0
+ },
+ {
+  "f": 2,
+  "k": "fakt",
+  "q": "Tavozu (kamtarlik) qanday ikki holat o'rtasidagi me'yor deb ta'riflangan?",
+  "o": [
+   "Sabr bilan shoshqaloqlik o'rtasida",
+   "Mutakabbirlik bilan xorlik o'rtasida",
+   "Saxovat bilan isrof o'rtasida",
+   "Jasorat bilan qo'rquv o'rtasida"
+  ],
+  "c": 1
+ },
+ {
+  "f": 2,
+  "k": "iqtibos",
+  "q": "Imom A'zam shogirdlariga kiyim haqida qanday tavsiya bergan?",
+  "o": [
+   "Faqat oq rangdagi kiyim kiyib yuringlar",
+   "Kiyimingizni har kuni almashtirib turinglar",
+   "Sallangizni ulug'lang, englaringiz keng bo'lsin",
+   "Arzon va oddiy kiyim bilan kifoyalaninglar"
+  ],
+  "c": 2
+ },
+ {
+  "f": 2,
+  "k": "amaliy",
+  "q": "Kitobga ko'ra, ilm bilan birga obro' va boylik talab qilish qachon joiz bo'ladi?",
+  "o": [
+   "Oila tebratish zarurati tug'ilgan paytda",
+   "Ustoz ruxsat va oq fotiha bergan taqdirda",
+   "Hech qanday holatda joiz hisoblanmaydi",
+   "Amri ma'ruf qoim bo'ladigan miqdorda"
+  ],
+  "c": 3
+ },
+ {
+  "f": 3,
+  "k": "fakt",
+  "q": "Talaba birinchi navbatda qaysi ilmni o'rganishi lozim?",
+  "o": [
+   "Tavhid va aqida ilmini",
+   "Fiqh va meros ilmini",
+   "Hadis va rivoyat ilmini",
+   "Arab tili va nahv ilmini"
+  ],
+  "c": 0
+ },
+ {
+  "f": 3,
+  "k": "sabab",
+  "q": "Muqallid (dalilsiz ergashuvchi)ning holati qanday baholangan?",
+  "o": [
+   "Uning imoni ham, ilmi ham to'liq durustdir",
+   "Imoni durust, dalilni tark etgani uchun gunohkor",
+   "Uning imoni ham botil deb hisoblanadi",
+   "Unga hech qanday mas'uliyat yuklanmaydi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 3,
+  "k": "fakt",
+  "q": "Ustoz tanlashda kitobda ko'rsatilgan uchta asosiy mezon qaysi?",
+  "o": [
+   "Mashhur, badavlat va notiq bo'lishi kerak",
+   "Yosh, g'ayratli va zamonaviy bo'lishi kerak",
+   "Olimroq, taqvodorroq va tajribaliroq bo'lishi",
+   "Shahar markazida va arzon bo'lishi kerak"
+  ],
+  "c": 2
+ },
+ {
+  "f": 3,
+  "k": "fakt",
+  "q": "Imom A'zam Abu Hanifa kimni o'ziga ustoz qilib tanlagan?",
+  "o": [
+   "Ibrohim an-Naxaiyni",
+   "Ato ibn Abu Rabohni",
+   "Ja'fari Sodiqni",
+   "Hammod ibn Sulaymonni"
+  ],
+  "c": 3
+ },
+ {
+  "f": 3,
+  "k": "amaliy",
+  "q": "Yangi shaharga ilm olishga borgan talabaga qanday maslahat berilgan?",
+  "o": [
+   "Ikki oy sabr qilib, ustozni yaxshilab o'rgansin",
+   "Birinchi kuniyoq eng mashhur ustozga yozilsin",
+   "Bir necha ustozdan bir vaqtda saboq olsin",
+   "Darhol munozaraga kirishib, o'zini ko'rsatsin"
+  ],
+  "c": 0
+ },
+ {
+  "f": 3,
+  "k": "iqtibos",
+  "q": "«Kishi maslahat so'rab halok bo'lgan emas» — bu so'z kimga tegishli?",
+  "o": [
+   "Imom Buxoriyga",
+   "Hazrati Aliga",
+   "Umar ibn Xattobga",
+   "Sufyon Savriyga"
+  ],
+  "c": 1
+ },
+ {
+  "f": 3,
+  "k": "fakt",
+  "q": "Donishmandlar kishilarni necha toifaga bo'lganlar?",
+  "o": [
+   "Ikki toifaga",
+   "To'rt toifaga",
+   "Uch toifaga",
+   "Besh toifaga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 3,
+  "k": "fakt",
+  "q": "Hazrati Ali aytgan, ilm hosil bo'lishining olti sharti orasida qaysi biri bor?",
+  "o": [
+   "Boylik, farovonlik va tinch turmush sharoiti",
+   "Nasab, oilaviy kelib chiqish va yurt e'tibori",
+   "Obod shahar va zamonaviy madrasa binosi",
+   "Zakovat, ilmga chanqoqlik va ustoz irshodi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 3,
+  "k": "amaliy",
+  "q": "Sherik tanlashda qanday kishidan uzoqlashish tavsiya qilingan?",
+  "o": [
+   "Dangasa, sergap, buzg'unchi va fitnachidan",
+   "Kambag'al va oddiy oiladan chiqqanidan",
+   "O'zidan yoshi kichik bo'lganidan",
+   "Boshqa shahardan kelgan musofirdan"
+  ],
+  "c": 0
+ },
+ {
+  "f": 3,
+  "k": "iqtibos",
+  "q": "«Kishining kim ekanini o'zidan so'rama» — davomi qanday?",
+  "o": [
+   "Balki uning o'qigan kitoblariga qarab ol",
+   "Balki uning yaqinlariga, do'stlariga qara",
+   "Balki uning kiyim-boshiga e'tibor ber",
+   "Balki uning ustozidan so'rab bilib ol"
+  ],
+  "c": 1
+ },
+ {
+  "f": 3,
+  "k": "taqqos",
+  "q": "Yomon sherik nimaga o'xshatilgan?",
+  "o": [
+   "Qurib qolgan daraxt shoxiga",
+   "Kuz faslidagi sovuq shamolga",
+   "Cho'g'ni o'chiruvchi kul ostiga",
+   "Sahroda uchragan loyqa suvga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 3,
+  "k": "amaliy",
+  "q": "Talabaga kitob va fan almashtirish borasida qanday ko'rsatma berilgan?",
+  "o": [
+   "Har oy yangi kitobga o'tib turish kerak",
+   "Bir vaqtda bir necha fanni boshlash afzal",
+   "Ustoz aytmaguncha kitob ochmaslik kerak",
+   "Bir kitob tugamay boshqasiga o'tmaslik kerak"
+  ],
+  "c": 3
+ },
+ {
+  "f": 3,
+  "k": "iqtibos",
+  "q": "«Yori bad badtar buvad az mori bad» iborasi nimani anglatadi?",
+  "o": [
+   "Yomon do'st yomon ilondan ham yomonroqdir",
+   "Yomon kun yomon tushdan ham og'irroqdir",
+   "Yomon so'z yomon ishdan ham xavflidir",
+   "Yomon yo'l yomon manzildan ham uzoqroqdir"
+  ],
+  "c": 0
+ },
+ {
+  "f": 4,
+  "k": "taqqos",
+  "q": "«Ilm afzalmi yoki odob?» degan savolga ulug' zot qanday javob bergan?",
+  "o": [
+   "Ikkovi ham teng darajada",
+   "Odob afzal",
+   "Ilm afzal",
+   "Bu savolga javob yo'q"
+  ],
+  "c": 1
+ },
+ {
+  "f": 4,
+  "k": "sabab",
+  "q": "Iblis nima sababdan Allohning rahmat dargohidan quvilgan?",
+  "o": [
+   "Ilmsizligi va nodonligi tufayli",
+   "Ko'p savol berib bezovta qilgani uchun",
+   "Beodoblik va ehtiromni tark etgani uchun",
+   "Farishtalarga dars berib yurgani uchun"
+  ],
+  "c": 2
+ },
+ {
+  "f": 4,
+  "k": "iqtibos",
+  "q": "«Menga bir dona harf o'rgatgan kishining quliman» — kimning so'zi?",
+  "o": [
+   "Imom Shofi'iyning",
+   "Imom Molikning",
+   "Abu Yusufning",
+   "Hazrati Alining"
+  ],
+  "c": 3
+ },
+ {
+  "f": 4,
+  "k": "fakt",
+  "q": "Kitobga ko'ra, talabaga ilm necha kishining duosi bilan hosil bo'ladi?",
+  "o": [
+   "Uch: ustozi, ota-onasi va o'zining kechalari",
+   "Ikki: ustozi va ota-onasi",
+   "To'rt: ustozi, ota-onasi, sheriklari va imomi",
+   "Bir: faqat ustozining duosi bilan"
+  ],
+  "c": 0
+ },
+ {
+  "f": 4,
+  "k": "fakt",
+  "q": "Imom Buxoriy Makkada ustozidan maktub olganda nima qildi?",
+  "o": [
+   "Maktubni ertasi kuni o'qidi",
+   "Buxoro tomoniga yuzlanib salomga alik oldi",
+   "Maktubni ochmasdan saqlab qo'ydi",
+   "Shogirdlariga o'qib berishni topshirdi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 4,
+  "k": "fakt",
+  "q": "Imom Saraxsiy bir kechada necha marta tahorat yangilagan?",
+  "o": [
+   "Yetti marta",
+   "O'n marta",
+   "O'n yetti marta",
+   "Yigirma marta"
+  ],
+  "c": 2
+ },
+ {
+  "f": 4,
+  "k": "sabab",
+  "q": "Xalvoniyning shogirdi ustozini ziyorat qilmagani uchun qanday duoni oldi?",
+  "o": [
+   "Ilmi ziyoda, umri qisqa bo'lsin",
+   "Oilasi baxtli, ishi og'ir bo'lsin",
+   "Moli ko'p, obro'yi kam bo'lsin",
+   "Umri uzoq, lekin ilmi ravnaq topmasin"
+  ],
+  "c": 3
+ },
+ {
+  "f": 4,
+  "k": "amaliy",
+  "q": "Imom A'zam mayda xat bilan yozayotgan kotibga nima deb nasihat qildi?",
+  "o": [
+   "Mayda yozma, o'zinggina biladigan belgi qo'yma",
+   "Tezroq yoz, vaqt tejashni o'rganib olgin",
+   "Faqat arab tilida yozishga odatlanib bor",
+   "Yozganingni har kuni ustozingga ko'rsat"
+  ],
+  "c": 0
+ },
+ {
+  "f": 4,
+  "k": "fakt",
+  "q": "Ustoz va shogird o'rtasidagi masofa qanday bo'lishi tavsiya qilingan?",
+  "o": [
+   "Imkon qadar yaqin o'tirish kerak",
+   "Bir kamonning uzunligi miqdorida",
+   "Xona bo'yi masofada",
+   "Masofaning ahamiyati yo'q"
+  ],
+  "c": 1
+ },
+ {
+  "f": 4,
+  "k": "fakt",
+  "q": "Imom Buxoriyga ustozi Muhammad ibn Hasan qaysi ilmni tavsiya qilgan?",
+  "o": [
+   "Fiqh ilmini davom ettirishni",
+   "Tafsir ilmiga o'tishni",
+   "Hadis ilmini o'rganishni",
+   "Nahv ilmini boshlashni"
+  ],
+  "c": 2
+ },
+ {
+  "f": 4,
+  "k": "iqtibos",
+  "q": "«Hamma narsa sarflash bilan zavol topadi, faqat ilm...» — davomi qanday?",
+  "o": [
+   "Faqat ilm hech o'zgarmasdan qolaveradi",
+   "Faqat ilm oxir-oqibat ustoziga qaytadi",
+   "Faqat ilm yashirin holda saqlanib qoladi",
+   "Faqat ilm qancha sarflansa shuncha ko'payadi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 4,
+  "k": "amaliy",
+  "q": "Talaba qaysi kitobni o'qishini kim belgilashi afzal deyilgan?",
+  "o": [
+   "Ustozning o'zi belgilashi eng afzal yo'ldir",
+   "Talabaning o'zi tanlashi eng to'g'ri yo'ldir",
+   "Sheriklar bilan maslahatlashib tanlash kerak",
+   "Kutubxonachi tavsiyasiga amal qilish kerak"
+  ],
+  "c": 0
+ },
+ {
+  "f": 4,
+  "k": "amaliy",
+  "q": "Bir masalani ming marta eshitgan talaba qanday holatda bo'lishi kerak?",
+  "o": [
+   "Bilganini bildirib, eshitmay qo'ysa bo'ladi",
+   "Har safar birinchi eshitgandek ta'zim bilan",
+   "Ustozga takrorlanayotganini eslatishi lozim",
+   "Boshqa savol berib mavzuni o'zgartirsin"
+  ],
+  "c": 1
+ },
+ {
+  "f": 5,
+  "k": "fakt",
+  "q": "Kitobga ko'ra, maqsadga erishishda kimlarning sa'y-harakati zarur?",
+  "o": [
+   "Shogird, ustoz va ota-onaning",
+   "Faqat shogirdning o'zining",
+   "Shogird va davlatning",
+   "Ustoz va jamoaning"
+  ],
+  "c": 0
+ },
+ {
+  "f": 5,
+  "k": "iqtibos",
+  "q": "«Qimirlagan qir oshar, ham tinmagan tinar» bayti kimdan keltirilgan?",
+  "o": [
+   "Boborahim Mashrabdan",
+   "Sadiduddin Sheroziydan",
+   "Xoja Ahmad Yassaviydan",
+   "Abu Toyyibdan"
+  ],
+  "c": 1
+ },
+ {
+  "f": 5,
+  "k": "taqqos",
+  "q": "Kecha (tun) talaba uchun nimaga o'xshatilgan?",
+  "o": [
+   "Sokin va tinch dengiz suviga",
+   "Yerga ko'milgan katta xazinaga",
+   "Maqsadga eltuvchi tuya karvoniga",
+   "Oxiri ko'rinmaydigan uzun yo'lga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 5,
+  "k": "amaliy",
+  "q": "Kechasi bedor bo'lish va uxlab qolmaslik uchun nima tavsiya qilingan?",
+  "o": [
+   "Sovuq suvda cho'milish",
+   "Ko'proq choy ichish",
+   "Kunduzi uxlab olish",
+   "Taomni kamaytirish"
+  ],
+  "c": 3
+ },
+ {
+  "f": 5,
+  "k": "taqqos",
+  "q": "Arab hikmatiga ko'ra, yoshlikda o'rganilgan ilm nimaga o'xshaydi?",
+  "o": [
+   "Toshga o'yib yozilgan naqshga",
+   "Suv yuzasidagi qisqa aksga",
+   "Shamol o'chirgan qum izlariga",
+   "Havoda tarqalib ketgan ovozga"
+  ],
+  "c": 0
+ },
+ {
+  "f": 5,
+  "k": "fakt",
+  "q": "«Rifq» so'zi qanday ma'noni anglatadi?",
+  "o": [
+   "Qat'iyat va shiddat bilan harakat qilish",
+   "Yumshoqlik bilan, toqatga mos ish tutish",
+   "Uzoq muddat tanaffus qilib dam olish",
+   "Doim jamoa bilan birgalikda o'qish"
+  ],
+  "c": 1
+ },
+ {
+  "f": 5,
+  "k": "iqtibos",
+  "q": "Rasululloh (s.a.v.) nafs va jasadni nimaga o'xshatganlar?",
+  "o": [
+   "Obod va sersuv bog'ga",
+   "Yashirin turgan xazinaga",
+   "Manzilga eltuvchi markabga",
+   "Mustahkam qurilgan qal'aga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 5,
+  "k": "fakt",
+  "q": "Zulqarnaynga donishmandlar qanday maslahat berganlar?",
+  "o": [
+   "Faqat mag'rib tomonga safar qilsin",
+   "Safar niyatidan butunlay voz kechsin",
+   "Avval katta qo'shin to'plab olsin",
+   "Ikki dunyo mulki topiladigan safar qilsin"
+  ],
+  "c": 3
+ },
+ {
+  "f": 5,
+  "k": "fakt",
+  "q": "Imom A'zam shogirdi Abu Yusufni nimadan qutqarganini aytgan?",
+  "o": [
+   "Dangasalik va landovurlik botqog'idan",
+   "Faqirlik va muhtojlik tashvishlaridan",
+   "Kibr va manmanlik illatlaridan",
+   "Shubha va gumon vasvasalaridan"
+  ],
+  "c": 0
+ },
+ {
+  "f": 5,
+  "k": "iqtibos",
+  "q": "Hazrati Ali taqsimot haqida nima degan?",
+  "o": [
+   "Bizga sabr, dushmanlarga shoshqaloqlik berildi",
+   "Bizga ilm, dushmanlarimizga mol-dunyo berildi",
+   "Bizga vaqt, dushmanlarimizga kuch-quvvat berildi",
+   "Bizga do'stlar, dushmanlarga yolg'izlik berildi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 5,
+  "k": "sabab",
+  "q": "Kitobga ko'ra, zehnning sustlashuvi va unutuvchanlikka nima sabab bo'ladi?",
+  "o": [
+   "Haddan ziyoda kitob o'qish",
+   "Sovuq havoda ko'p yurish",
+   "Balg'amning me'yordan ziyodaligi",
+   "Kam gapirish va sukut saqlash"
+  ],
+  "c": 2
+ },
+ {
+  "f": 5,
+  "k": "amaliy",
+  "q": "Balg'amni kamaytirish uchun qanday usul ko'rsatilgan?",
+  "o": [
+   "Ko'proq iliq suv ichib turish kerak",
+   "Doim issiq taom bilan ovqatlanish",
+   "Qotgan non va mayizni so'lak bilan yeyish",
+   "Kunduzi bir necha soat uxlab olish"
+  ],
+  "c": 2
+ },
+ {
+  "f": 5,
+  "k": "iqtibos",
+  "q": "Faylasuf Jolinus anor va baliq haqida nima degan?",
+  "o": [
+   "Ozgina baliq ko'p anordan yaxshiroqdir",
+   "Anor va baliqni birga yeyish kerak",
+   "Baliq har doim anordan foydaliroq",
+   "Ikkovidan ham voz kechish afzal"
+  ],
+  "c": 0
+ },
+ {
+  "f": 5,
+  "k": "fakt",
+  "q": "Rasululloh (s.a.v.) gunohi bo'lmasa ham Alloh g'azab qiladigan uch toifani sanaganlar. Ular kim?",
+  "o": [
+   "Yolg'onchi, g'iybatchi va hasadgo'y",
+   "Ochofat, baxil va mutakabbir",
+   "Dangasa, qo'rqoq va shoshqaloq",
+   "Kambag'al, boy va musofir"
+  ],
+  "c": 1
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Burhoniddin Marg'inoniy saboq boshlashni qaysi kunga muvofiq keltirar edi?",
+  "o": [
+   "Dushanba kuniga",
+   "Juma kuniga",
+   "Chorshanba kuniga",
+   "Shanba kuniga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 6,
+  "k": "sabab",
+  "q": "Nima uchun aynan chorshanba kuni tanlangan?",
+  "o": [
+   "Bozor kuni bo'lgani uchun",
+   "Hafta o'rtasi bo'lgani uchun",
+   "Dam olishdan keyingi kun bo'lgani uchun",
+   "Nur yaratilgan kun bo'lgani uchun"
+  ],
+  "c": 3
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Saboqning miqdori qanday belgilanishi kerak?",
+  "o": [
+   "Ikki marta takrorlab yodlash mumkin miqdorda",
+   "Har qanday holatda bir sahifadan oshmasligi",
+   "Ustoz belgilagan soat tugagunga qadar",
+   "Talaba butunlay charchaguniga qadar davom etadi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 6,
+  "k": "iqtibos",
+  "q": "«Bir harf saboq olasan, uni ... takror qilasan» — bo'sh joyga nima tushadi?",
+  "o": [
+   "O'n marta",
+   "Ming marta",
+   "Yuz marta",
+   "Qirq marta"
+  ],
+  "c": 1
+ },
+ {
+  "f": 6,
+  "k": "amaliy",
+  "q": "Talaba tushunmagan narsani daftariga yozsa nima bo'ladi?",
+  "o": [
+   "Vaqt o'tishi bilan o'zi tushunib oladi",
+   "Ustozi keyinroq uni tuzatib beradi",
+   "Toliqish keltirib, vaqtni zoe ketkazadi",
+   "Yodda saqlash ancha osonlashib qoladi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 6,
+  "k": "taqqos",
+  "q": "Donishmandlarga ko'ra, qaysi biri afzalroq?",
+  "o": [
+   "Ko'p yodlash oz tushunishdan afzalroq",
+   "Tez o'qish sekin o'qishdan afzalroq",
+   "Yolg'iz o'qish jamoada o'qishdan afzalroq",
+   "Ikkitani tushunish ikkitani yodlashdan afzal"
+  ],
+  "c": 3
+ },
+ {
+  "f": 6,
+  "k": "iqtibos",
+  "q": "Muzokara (fikr almashish) haqida donishmandlar nima deganlar?",
+  "o": [
+   "Bir soat muzokara bir oy takrordan xayrli",
+   "Muzokara faqat olimlarga foyda beradi",
+   "Muzokaradan ko'ra yolg'iz takror afzalroq",
+   "Muzokara vaqtni behuda zoe ketkazadi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Umar (r.a.)ga ko'ra, savollar necha xil va nechtasi najot beradi?",
+  "o": [
+   "Ikki xil, biri najot beradi",
+   "Uch xil, ikkitasi najot beradi",
+   "To'rt xil, uchtasi najot beradi",
+   "Uch xil, bittasi najot beradi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Kitobda ko'rsatilgan takror tartibiga ko'ra, kechagi saboq necha marta takrorlanadi?",
+  "o": [
+   "Uch marta",
+   "To'rt marta",
+   "Besh marta",
+   "Ikki marta"
+  ],
+  "c": 2
+ },
+ {
+  "f": 6,
+  "k": "amaliy",
+  "q": "Takror qilishda ovoz qanday bo'lishi kerak?",
+  "o": [
+   "Imkon qadar baland va shiddatli bo'lishi",
+   "Butunlay ichda, ovoz chiqarmasdan bo'lishi",
+   "Har safar boshqacha ohangda bo'lishi",
+   "Bo'shashgan ham, zo'riqqan ham emas — o'rtacha"
+  ],
+  "c": 3
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Gapirishdan oldin e'tibor berilishi kerak bo'lgan beshta tamoyil orasida qaysi biri bor?",
+  "o": [
+   "Gapning aytilgan vaqti va joyi",
+   "Gapning yozilgan shakli",
+   "Gapni eshituvchining yoshi",
+   "Gapning tarjimasi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Abu Yusufning cho'risi undan qanday jumlani yod olgan edi?",
+  "o": [
+   "Sabr — imonning yarmi hisoblanadi",
+   "O'lchaydigan asbob og'irligi soqitdir",
+   "Ilm — qalbga tushadigan yorug' nurdir",
+   "Niyat amalning o'zidan ham afzalroqdir"
+  ],
+  "c": 1
+ },
+ {
+  "f": 6,
+  "k": "iqtibos",
+  "q": "Ibn Abbos ilmga qanday erishganini so'raganlarida nima deb javob bergan?",
+  "o": [
+   "Uzoq safarlar va cheksiz sabr bilan",
+   "Ustozimning xayrli duosi barakoti bilan",
+   "Charchamas til va saqlovchi qalb bilan",
+   "Kechalarni bedor o'tkazganim natijasida"
+  ],
+  "c": 2
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Imom A'zam ilm bilan bir vaqtda qanday kasb bilan shug'ullangan?",
+  "o": [
+   "Dehqonchilik bilan",
+   "Kosibchilik bilan",
+   "Temirchilik bilan",
+   "Bazzozlik bilan"
+  ],
+  "c": 3
+ },
+ {
+  "f": 6,
+  "k": "iqtibos",
+  "q": "Imom A'zam o'zining ilmga erishuv sirini nimada ko'rgan?",
+  "o": [
+   "Hamdu sano va shukr aytishda",
+   "Uzoq yurtlarga safar qilishda",
+   "Ko'p kitob to'plab qo'yishda",
+   "Odamlardan uzoq yurishda"
+  ],
+  "c": 0
+ },
+ {
+  "f": 6,
+  "k": "fakt",
+  "q": "Imom Imbijobiy necha yil davomida tinimsiz munozara qilgan va sherigi kim edi?",
+  "o": [
+   "O'n yil, sherigi Imom Molik",
+   "O'n ikki yil, sherigi Imom Shofi'iy",
+   "Yigirma yil, sherigi Imom Ahmad",
+   "Sakkiz yil, sherigi Abu Yusuf"
+  ],
+  "c": 1
+ },
+ {
+  "f": 7,
+  "k": "fakt",
+  "q": "Tavakkul nima degani?",
+  "o": [
+   "Barcha ishni boshqa kishilarga topshirib qo'yish",
+   "Hech qanday harakat qilmasdan kutib o'tirish",
+   "Ishni Allohga topshirib, rizqqa g'am chekmaslik",
+   "Faqat duo bilan cheklanib, sabab izlamaslik"
+  ],
+  "c": 2
+ },
+ {
+  "f": 7,
+  "k": "sabab",
+  "q": "Talaba ko'nglini rizq va dunyo matolariga band qilsa nima bo'ladi?",
+  "o": [
+   "Hayoti barqarorlashib, ko'ngli tinchiydi",
+   "Ustozining hurmat-e'tiborini qozonadi",
+   "Sheriklaridan ancha ustun kelib qoladi",
+   "Ilmga vaqt qolmay, undan bebahra bo'ladi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 7,
+  "k": "iqtibos",
+  "q": "Husayn ibn Mansur al-Halloj nafs haqida qanday nasihat qilgan?",
+  "o": [
+   "Nafsingni mashg'ul qilmasang, u seni qiladi",
+   "Nafsingni butunlay yo'q qilishga urinib ko'r",
+   "Nafs bilan kurashish behuda ish hisoblanadi",
+   "Nafsni erkin qo'yib berish eng to'g'ri yo'ldir"
+  ],
+  "c": 0
+ },
+ {
+  "f": 7,
+  "k": "fakt",
+  "q": "Muso (a.s.) Xizr (a.s.) bilan qilgan safari haqida nima degan?",
+  "o": [
+   "Bu safar juda oson va yengil kechdi",
+   "Bu safarda ko'p mashaqqatlarga uchradik",
+   "Bu safarni butunlay unutib yuborganman",
+   "Bu safar juda qisqa muddat davom etdi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 7,
+  "k": "iqtibos",
+  "q": "Imom Muhammad ilm talabining muddati haqida nima degan?",
+  "o": [
+   "Yigirma yildan oshmasligi kerak",
+   "Ustoz ruxsat bergunicha",
+   "Beshikdan lahadgachadir",
+   "Yoshlik davri bilan chegaralanadi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 7,
+  "k": "fakt",
+  "q": "Abu Yusuf umrining oxirgi damlarida shogirdidan nima haqida so'radi?",
+  "o": [
+   "Ustozining o'sha kundagi ahvoli haqida",
+   "O'zi yozib qoldirgan vasiyati haqida",
+   "Kitoblarining kelgusi taqdiri haqida",
+   "Hoji toshni ulovda yo piyoda otishi haqida"
+  ],
+  "c": 3
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Hasan ibn Ziyod necha yoshda ilm olishga kirishgan?",
+  "o": [
+   "Sakson yoshda",
+   "Ellik yoshda",
+   "Oltmish yoshda",
+   "Qirq yoshda"
+  ],
+  "c": 0
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Hasan ibn Ziyod ilm boshlagach necha yil yonboshi ko'rpacha ko'rmagan?",
+  "o": [
+   "Yigirma yil",
+   "Qirq yil",
+   "O'ttiz yil",
+   "O'n yil"
+  ],
+  "c": 1
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Kitobga ko'ra, ilm olishning eng fazilatli davri qaysi?",
+  "o": [
+   "Qarilik davri",
+   "O'rta yosh davri",
+   "Yoshlik davri",
+   "Bolalik davri"
+  ],
+  "c": 2
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Kun davomida ilm uchun eng yaxshi vaqtlar qaysi deb ko'rsatilgan?",
+  "o": [
+   "Peshin va asr orasi",
+   "Kechki payt va tun yarmi",
+   "Ertalabki quyosh chiqishi paytida",
+   "Sahar hamda shom bilan xufton orasi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Muhammad ibn Hasan uyquni ketkazish uchun nima qilar edi?",
+  "o": [
+   "Yuzini suv bilan yuvar edi",
+   "Ochiq havoga chiqar edi",
+   "Baland ovozda o'qir edi",
+   "Choy ichar edi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 8,
+  "k": "amaliy",
+  "q": "Bir ilmdan zeriksa, talaba nima qilishi tavsiya qilingan?",
+  "o": [
+   "Bir necha kun butunlay tanaffus qilishi",
+   "Boshqa foydali ilm bilan shug'ullanishi",
+   "Ustozidan dam olishga ruxsat so'rashi",
+   "O'sha ilmni butunlay tark etib qo'yishi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 8,
+  "k": "fakt",
+  "q": "Ibn Abbos gapirishdan charchaganda nimani so'rar edi?",
+  "o": [
+   "Umumiy tanaffus e'lon qilishni",
+   "Ichish uchun suv keltirishni",
+   "«She'rlar devoni»ni keltirishni",
+   "Shogirdlarini tarqatib yuborishni"
+  ],
+  "c": 2
+ },
+ {
+  "f": 9,
+  "k": "iqtibos",
+  "q": "Burhoniddin Marg'inoniy muallim farzandi haqida nima degan?",
+  "o": [
+   "Muallimning farzandi albatta olim bo'ladi",
+   "Muallimning farzandi ilmga qiziqmaydi",
+   "Muallimning farzandi boshqa kasb tanlaydi",
+   "Muallimning farzandi otasidan o'qimasin"
+  ],
+  "c": 0
+ },
+ {
+  "f": 9,
+  "k": "sabab",
+  "q": "Sadrul Ajall nima uchun o'z o'g'illariga darsni issiq choshtgohda berardi?",
+  "o": [
+   "Ertalab boshqa muhim ishlari bo'lgani uchun",
+   "Uzoqdan kelgan musofirlarni oldin qo'ygani uchun",
+   "Issiqda zehn o'tkirlashadi deb bilgani uchun",
+   "O'g'illarining sabrini sinamoqchi bo'lgani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 9,
+  "k": "iqtibos",
+  "q": "Iso ibn Maryam (a.s.) sabr haqida nima degan?",
+  "o": [
+   "Sabr faqat kuchli kishilarga xos fazilat",
+   "Sabrni hech kim to'liq uddalay olmaydi",
+   "O'n yaxshilik uchun bitta ahmoqqa sabr qil",
+   "Sabrsiz hech qachon ilm hosil bo'lmaydi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 9,
+  "k": "amaliy",
+  "q": "Kitobga ko'ra, dushmandan g'olib kelishning eng to'g'ri yo'li qaysi?",
+  "o": [
+   "Unga qarshi ochiq shikoyat qilish orqali",
+   "Undan butunlay uzoqlashib ketish orqali",
+   "Uni ochiq munozaraga chorlab yengish orqali",
+   "Ilmni oshirib, o'z tarbiyang bilan mashg'ullik"
+  ],
+  "c": 3
+ },
+ {
+  "f": 9,
+  "k": "sabab",
+  "q": "Mo'min haqida yomon gumon qilish nima uchun man etilgan?",
+  "o": [
+   "Gumon dushmanlikning manbai bo'lgani uchun",
+   "Gumon insonning ilmini kamaytirgani uchun",
+   "Gumon tungi uyquni buzib qo'ygani uchun",
+   "Gumon rizq eshiklarini to'sib qo'ygani uchun"
+  ],
+  "c": 0
+ },
+ {
+  "f": 9,
+  "k": "iqtibos",
+  "q": "«Nima barcha xaloyiqqa foyda etkazadi?» degan savolga qanday javob berilgan?",
+  "o": [
+   "Ilmning tarqalishi",
+   "Yomonlarning yo'qligi",
+   "Boylikning ko'payishi",
+   "Tinchlikning barqarorligi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 9,
+  "k": "amaliy",
+  "q": "Dushmaning senga makr qilganini bilsang, kitobga ko'ra nima qilishing kerak?",
+  "o": [
+   "Undan qattiqroq javob berish",
+   "Boshqalarga bu haqda aytish",
+   "Sen unga makr qilmaslik",
+   "Undan uzr so'rash"
+  ],
+  "c": 2
+ },
+ {
+  "f": 9,
+  "k": "fakt",
+  "q": "Umayd Abul Fatx al-Bosniy aqlli insonga nimani ixtiyor qilishni tavsiya qilgan?",
+  "o": [
+   "Kuch ishlatib qarshi javob berishni",
+   "O'z haqini oxirigacha talab qilishni",
+   "Ochiq maydonda bahsga chiqishni",
+   "Jang emas — tinchlik, murosa va sukutni"
+  ],
+  "c": 3
+ },
+ {
+  "f": 10,
+  "k": "iqtibos",
+  "q": "«Hikmat mo'minning yo'qotgan kerakli narsasidir» hadisining davomi qanday?",
+  "o": [
+   "Uni qayerda topsa darhol oladi",
+   "Uni faqat olimlardan izlaydi",
+   "Uni topgunicha tinchimaydi",
+   "Uni boshqalarga bermaydi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 10,
+  "k": "amaliy",
+  "q": "Foyda talab qilishning asosiy usuli nima deb ko'rsatilgan?",
+  "o": [
+   "Imkon qadar ko'proq savol berish",
+   "Yozuv asboblarini doim yonida saqlash",
+   "Ustozga eng yaqin joyda o'tirish",
+   "Ko'proq ilmiy majlislarda qatnashish"
+  ],
+  "c": 1
+ },
+ {
+  "f": 10,
+  "k": "iqtibos",
+  "q": "«Kim zehniga ishonib yod olibdi...» — davomi qanday?",
+  "o": [
+   "U hech qachon unutmaydi",
+   "Uning ilmi barakali bo'ladi",
+   "Yod olgani tezda undan qochibdi",
+   "U ustozidan ustun keladi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 10,
+  "k": "fakt",
+  "q": "Rasululloh (s.a.v.) Hilol ibn Yasirga nima deb nasihat qildilar?",
+  "o": [
+   "Har kuni bittadan hadis yodlab bor",
+   "Majlis boshlanishidan oldin kelib o'tir",
+   "Eshitganingni albatta boshqaga yetkaz",
+   "Siyohdondan ajralma, xayr qalamdadir"
+  ],
+  "c": 3
+ },
+ {
+  "f": 10,
+  "k": "fakt",
+  "q": "Asom ibn Yusuf bir dinorga nima sotib olgan?",
+  "o": [
+   "Qalam",
+   "Kitob",
+   "Siyoh",
+   "Qog'oz"
+  ],
+  "c": 0
+ },
+ {
+  "f": 10,
+  "k": "fakt",
+  "q": "Sadri Shahid Hisomiddin o'g'liga har kuni nima qilishni buyurgan?",
+  "o": [
+   "Har kuni bir bob yozib chiqishni",
+   "Hikmatdan engil narsa yod olishni",
+   "Kuniga bir majlisda qatnashishni",
+   "Har hafta ustozini ziyorat qilishni"
+  ],
+  "c": 1
+ },
+ {
+  "f": 10,
+  "k": "iqtibos",
+  "q": "Hazrati Ali boshlangan ish haqida nima degan?",
+  "o": [
+   "Ishni boshlashdan oldin ko'p o'yla",
+   "Ishni jamoa bilan boshla",
+   "Bir ishni boshlasang, oxiriga yetkaz",
+   "Ishni ertaga qoldirma"
+  ],
+  "c": 2
+ },
+ {
+  "f": 10,
+  "k": "iqtibos",
+  "q": "«Kimning cho'ntagida daftar yurmas...» — davomi qanday?",
+  "o": [
+   "Uning ilmi kam bo'ladi",
+   "U ustozini topolmaydi",
+   "Uning umri qisqa bo'ladi",
+   "Qalbiga hikmat ham kirmas"
+  ],
+  "c": 3
+ },
+ {
+  "f": 11,
+  "k": "iqtibos",
+  "q": "«Hikmatning boshi ...dir» — bo'sh joyga nima tushadi?",
+  "o": [
+   "Taqvo",
+   "Sabr",
+   "Ilm",
+   "Shukr"
+  ],
+  "c": 0
+ },
+ {
+  "f": 11,
+  "k": "fakt",
+  "q": "Qirq kun halol taom yeb, jamoat bilan namoz o'qigan kishiga nima nasib bo'ladi?",
+  "o": [
+   "Moli va rizqi ko'payib boradi",
+   "Qalbi tinch, tili hikmatli bo'ladi",
+   "Umri uzayib, sog'ligi mustahkamlanadi",
+   "Dushmanlari kamayib, do'stlari ortadi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 11,
+  "k": "fakt",
+  "q": "Ilm talabida taqvoga rioya qilmagan kishiga yuboriladigan uch balo orasida qaysi biri bor?",
+  "o": [
+   "Ilmini butunlay unutib qo'yishi",
+   "Yurtidan ayrilib, musofir bo'lishi",
+   "Sulton xizmatiga mubtalo bo'lishi",
+   "Ustozidan uzilib, yolg'iz qolishi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 11,
+  "k": "amaliy",
+  "q": "Taqvo va parhez uchun talaba avvalo nimalardan saqlanishi kerak?",
+  "o": [
+   "Uzoq safar va yolg'izlikdan",
+   "Bahs hamda munozaralardan",
+   "Kitob sotib olishga urinishdan",
+   "Ziyoda to'yish va ko'p uxlashdan"
+  ],
+  "c": 3
+ },
+ {
+  "f": 11,
+  "k": "sabab",
+  "q": "Bozor uchun tayyorlangan taomdan saqlanish nima sababdan tavsiya qilingan?",
+  "o": [
+   "Zikrdan yiroq, faqirning ko'zi tushgani uchun",
+   "Narxi juda qimmatga tushib ketgani uchun",
+   "Tayyorlanishi uzoq davom etadigani uchun",
+   "Ulug' ustozlar buni man qilib qo'ygani uchun"
+  ],
+  "c": 0
+ },
+ {
+  "f": 11,
+  "k": "fakt",
+  "q": "Muhammad ibn Fazlning otasi o'g'lining xonasida nimani ko'rib ranjidi?",
+  "o": [
+   "Ortiqcha kiyimni",
+   "Bozor nonini",
+   "Yangi kitobni",
+   "Bo'sh siyohdonni"
+  ],
+  "c": 1
+ },
+ {
+  "f": 11,
+  "k": "fakt",
+  "q": "Ikki talaba haqidagi hikoyada olim bo'lgan yigit darsni qanday o'qir edi?",
+  "o": [
+   "Doim baland ovoz chiqarib o'qir edi",
+   "Har safar jamoa bilan birga o'qir edi",
+   "Qiblaga yuzlanib, tahorat bilan o'qir edi",
+   "Faqat kechalari uyg'onib o'qir edi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 11,
+  "k": "sabab",
+  "q": "Sunnat amallarni mensimagan kishi haqida nima deyilgan?",
+  "o": [
+   "Uning ilmi asta-sekin kamayib boradi",
+   "U ustozidan butunlay uzoqlashib ketadi",
+   "Uning umri qisqarib, rizqi kamayadi",
+   "U farzlardan ham, oxiratidan ham mahrum"
+  ],
+  "c": 3
+ },
+ {
+  "f": 12,
+  "k": "fakt",
+  "q": "Zehnni kuchaytiradigan eng asosiy manba nima deb ko'rsatilgan?",
+  "o": [
+   "Kitobga qarab Qur'on tilovat qilish",
+   "Yod olgan holda Qur'on o'qib yurish",
+   "Ko'p miqdorda hadis yodlab borish",
+   "Hikmatli she'rlarni o'qib yurish"
+  ],
+  "c": 0
+ },
+ {
+  "f": 12,
+  "k": "sabab",
+  "q": "Nima uchun Qur'onni kitobga qarab o'qish afzal?",
+  "o": [
+   "Ko'zning quvvatini oshirib borgani uchun",
+   "Shoshilmay, ma'noni tafakkur qilgani uchun",
+   "Ovoz chiroyliroq chiqib turgani uchun",
+   "Atrofdagilar ham eshitib turgani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 12,
+  "k": "fakt",
+  "q": "Har kuni necha dona qizil mayiz yeyish zehnni mustahkamlaydi deyilgan?",
+  "o": [
+   "7 ta",
+   "10 ta",
+   "21 ta",
+   "40 ta"
+  ],
+  "c": 2
+ },
+ {
+  "f": 12,
+  "k": "fakt",
+  "q": "Quyidagilardan qaysi biri zehnni kuchaytiruvchi omil sifatida keltirilgan?",
+  "o": [
+   "Xom piyoz bilan ovqatlanish",
+   "Nordon olma yeb yurish",
+   "Qabristondagi yozuvlarni o'qish",
+   "Misvok tutish va salavot aytish"
+  ],
+  "c": 3
+ },
+ {
+  "f": 12,
+  "k": "fakt",
+  "q": "Quyidagilardan qaysi biri unutuvchanlikni keltiradi deb sanalgan?",
+  "o": [
+   "Osib qo'yilgan narsalarga qarash",
+   "Kitobga qarab o'qib chiqish",
+   "Har kuni bir qoshiq asal yeyish",
+   "Kechasi turib nafl namoz o'qish"
+  ],
+  "c": 0
+ },
+ {
+  "f": 12,
+  "k": "sabab",
+  "q": "Zehnning pastlashuviga qaysi ma'naviy sabab ko'rsatilgan?",
+  "o": [
+   "Ko'p safar qilib, yurt kezish",
+   "Gunohga moyillik va dunyo g'ami",
+   "Yolg'iz va begona yurtda yashash",
+   "Kam ovqatlanib, och yurish"
+  ],
+  "c": 1
+ },
+ {
+  "f": 12,
+  "k": "iqtibos",
+  "q": "Vakiy' hazratlariga zehn haqida shikoyat qilganda qanday javob olingan?",
+  "o": [
+   "Ko'proq takrorlashni maslahat berdi",
+   "Ustoz almashtirishni aytdi",
+   "Gunohni tark etishni buyurdi",
+   "Dam olishni tavsiya qildi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 12,
+  "k": "taqqos",
+  "q": "Dunyo g'ami va oxirat g'ami qalbga qanday ta'sir qiladi?",
+  "o": [
+   "Ikkovi ham qalbni birdek tinchlantiradi",
+   "Ikkovi ham qalbni birdek og'irlashtiradi",
+   "Dunyo g'ami ibodatga chorlab turadi",
+   "Dunyo g'ami zulmat, oxirat g'ami nur"
+  ],
+  "c": 3
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Rasululloh (s.a.v.)ga ko'ra, taqdirni nima o'zgartirishi mumkin?",
+  "o": [
+   "Duo",
+   "Sadaqa",
+   "Safar",
+   "Sabr"
+  ],
+  "c": 0
+ },
+ {
+  "f": 13,
+  "k": "iqtibos",
+  "q": "Rasululloh (s.a.v.) yolg'onchilik haqida nima deganlar?",
+  "o": [
+   "Yolg'onchilik umrni qisqartiradi",
+   "Yolg'onchilik faqirlik keltiradi",
+   "Yolg'onchilik ilmni ketkazadi",
+   "Yolg'onchilik do'stni yo'qotadi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Rizqning kamayishiga sabab bo'ladigan odat sifatida qaysi biri ko'rsatilgan?",
+  "o": [
+   "Kechqurun kitob o'qish",
+   "Ko'p savol berish",
+   "Tongdagi uyqu",
+   "Yolg'iz ovqatlanish"
+  ],
+  "c": 2
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Quyidagilardan qaysi biri rizqni ko'paytiruvchi omil sifatida sanalgan?",
+  "o": [
+   "Kech tushganda uy supurish",
+   "Ostona va zinaga o'tirish",
+   "Chiroqni puflab o'chirish",
+   "Husni xat va ochiq chehra"
+  ],
+  "c": 3
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Qaysi namoz rizqqa manfaat berish fazilati bilan alohida tilga olingan?",
+  "o": [
+   "Choshtgoh (zuho) namozi",
+   "Vitr namozi va tahajjud",
+   "Tahajjud (tunggi) namoz",
+   "Tarovih namozi (Ramazon)"
+  ],
+  "c": 0
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Kechalari qaysi surani tilovat qilish foydali ekaniga hujjatlar bor deyilgan?",
+  "o": [
+   "Yosin surasi",
+   "Voqea surasi",
+   "Rahmon surasi",
+   "Kahf surasi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 13,
+  "k": "fakt",
+  "q": "Umrga umr qo'shadigan amal sifatida nima ko'rsatilgan?",
+  "o": [
+   "Ko'p va to'yib ovqatlanish",
+   "Uzoq yurtlarga safar qilish",
+   "Silai rahm — qarindoshni yo'qlash",
+   "Kunduzi ko'proq uxlab olish"
+  ],
+  "c": 2
+ },
+ {
+  "f": 13,
+  "k": "iqtibos",
+  "q": "Donishmand Buzrugmehr ko'p gapiradigan kishi haqida nima degan?",
+  "o": [
+   "U eng ilmli kishilardandir",
+   "U jasur va mard kishidir",
+   "U saxovatli kishi hisoblanadi",
+   "Uning aqli zaiflashib qolgan"
+  ],
+  "c": 3
+ },
+ {
+  "f": 13,
+  "k": "iqtibos",
+  "q": "Hazrati Ali aql kamoloti haqida nima degan?",
+  "o": [
+   "Aql kamol topsa, og'iz so'zga ochilmaydi",
+   "Aql kamol topsa, kishi ko'p gapiradi",
+   "Aql kamol topsa, kishi yolg'iz qoladi",
+   "Aql kamol topsa, kishi bahsga kirishadi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 13,
+  "k": "amaliy",
+  "q": "Ko'karib turgan daraxt va o'simliklar haqida qanday ko'rsatma berilgan?",
+  "o": [
+   "Ularni ko'paytirish shart emas",
+   "Zarurat bo'lmasa kesmaslik kerak",
+   "Ularni kesish har doim joizdir",
+   "Kitobda bu haqda gapirilmagan"
+  ],
+  "c": 1
+ },
+ {
+  "f": 14,
+  "k": "fakt",
+  "q": "Imom A'zamning vasiyati kimga qaratilgan?",
+  "o": [
+   "Imom Muhammad ibn Hasanga",
+   "Imom Zufarga",
+   "Imom Abu Yusufga",
+   "Imom Shofi'iyga"
+  ],
+  "c": 2
+ },
+ {
+  "f": 14,
+  "k": "taqqos",
+  "q": "Imom A'zam sulton va amaldorlar bilan munosabatni nimaga o'xshatgan?",
+  "o": [
+   "Chuqur va tubsiz dengizga",
+   "Cho'qqisi yo'q baland tog'ga",
+   "Oxiri ko'rinmas uzun yo'lga",
+   "Alangasi baland olovga"
+  ],
+  "c": 3
+ },
+ {
+  "f": 14,
+  "k": "amaliy",
+  "q": "Ko'pchilik ichida savol berilsa, qanday javob berish tavsiya qilingan?",
+  "o": [
+   "Faqat so'ralgan masalaga javob berish",
+   "Mavzuni kengaytirib to'liq tushuntirish",
+   "Javobni keyingi majlisga qoldirish",
+   "Savolni boshqa olimga havola qilish"
+  ],
+  "c": 0
+ },
+ {
+  "f": 14,
+  "k": "sabab",
+  "q": "Jamoat orasida ovoz chiqarib kulishdan saqlanish nima uchun tavsiya qilingan?",
+  "o": [
+   "Ovozi boshqalarni bezovta qilgani uchun",
+   "O'zini katta oladi deb o'ylashlari uchun",
+   "Kulish makruh amal hisoblangani uchun",
+   "Majlis vaqtini zoe ketkazgani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 14,
+  "k": "amaliy",
+  "q": "Imom A'zam hayot tartibi haqida qanday ketma-ketlikni tavsiya qilgan?",
+  "o": [
+   "Avval uylanish, keyin ilm, so'ng kasb",
+   "Avval kasb, keyin uylanish, so'ng ilm",
+   "Avval ilm, keyin kasb-hunar, so'ng uylanish",
+   "Avval mol to'plash, keyin ilm, so'ng kasb"
+  ],
+  "c": 2
+ },
+ {
+  "f": 14,
+  "k": "iqtibos",
+  "q": "Imom A'zam ilmdan voz kechish haqida nima degan?",
+  "o": [
+   "Zarurat bo'lsa vaqtincha tark etish mumkin",
+   "Kasb-hunar ilmdan muhimroqdir",
+   "Ustoz ruxsat bersa to'xtatish joiz",
+   "O'n yil ovqatsiz qolsang ham ilmdan voz kechma"
+  ],
+  "c": 3
+ },
+ {
+  "f": 14,
+  "k": "amaliy",
+  "q": "Yangi shaharga borgan olimga qanday maslahat berilgan?",
+  "o": [
+   "O'sha yerning oddiy fuqarosi bo'lib yurish",
+   "Darhol o'z darsini ochib, shogird to'plash",
+   "Mahalliy olimlar bilan bahsga kirishish",
+   "Hokim huzuriga borib, tanishib olish"
+  ],
+  "c": 0
+ },
+ {
+  "f": 14,
+  "k": "amaliy",
+  "q": "Fatvo so'ralganda qanday javob berish kerak?",
+  "o": [
+   "Bir necha xil javobni birga aytish",
+   "So'ralganiga lo'nda va ixcham javob berish",
+   "Javobni yozma ravishda berish",
+   "Boshqa masalalarni ham qo'shib aytish"
+  ],
+  "c": 1
+ },
+ {
+  "f": 14,
+  "k": "sabab",
+  "q": "Imom A'zam nima uchun ibodatning kam bo'lishidan ogohlantirgan?",
+  "o": [
+   "Savob miqdori kamayib ketgani uchun",
+   "Ustozlari bundan norozi bo'lgani uchun",
+   "«Ilmi foyda bermabdi» deyishlari uchun",
+   "Ilm asta-sekin unutilib qolgani uchun"
+  ],
+  "c": 2
+ },
+ {
+  "f": 14,
+  "k": "amaliy",
+  "q": "Kattalar bilan birga yurish haqida qanday ko'rsatma bor?",
+  "o": [
+   "Har doim ularning oldida yurish kerak",
+   "Ular bilan birga yurmaslik shart qilingan",
+   "Doimo yonma-yon yurish afzal sanaladi",
+   "Oldiga tushib ham, o'tkazib ham yurmaslik"
+  ],
+  "c": 3
+ },
+ {
+  "f": 2,
+  "k": "amaliy",
+  "q": "Kitobga ko'ra, ilm olishda niyat nimalarni o'z ichiga olishi lozim?",
+  "o": [
+   "Faqat imtihondan yaxshi o'tishni",
+   "Faqat obro' va martaba topishni",
+   "Jaholatni ketkazish va dinga xizmat qilishni",
+   "Faqat ota-onani xursand qilishni"
+  ],
+  "c": 2
+ },
+ {
+  "f": 2,
+  "k": "sabab",
+  "q": "Odamlar hurmati va e'tiborini topish uchun ilm talab qilgan kishi haqida nima deyilgan?",
+  "o": [
+   "Unga xasratu nadomatlar bo'lsin",
+   "Uning ilmi ikki barobar ziyoda bo'ladi",
+   "U tez orada maqsadiga erishadi",
+   "Uning niyati asta-sekin tuzaladi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 7,
+  "k": "sabab",
+  "q": "Nima uchun tavakkul talabaning asosiy vazifasi deb qaralgan?",
+  "o": [
+   "Ustozlar shuni talab qilgani uchun",
+   "Qalbni bo'shatib, ilmga jalb qilgani uchun",
+   "Mehnat qilishdan xalos etgani uchun",
+   "Boylik keltirishni kafolatlagani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 7,
+  "k": "fakt",
+  "q": "«Kim Alloh dinining ilmini o'rgansa» hadisining davomi qanday?",
+  "o": [
+   "Uning nomi tarixda boqiy qoladi",
+   "Uning umri ziyoda qilib beriladi",
+   "Alloh uning rizqiga kifoya bo'ladi",
+   "Unga yetmish farishta muvakkil qilinadi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 7,
+  "k": "amaliy",
+  "q": "Aqli raso kishi dunyo matolari uchun qayg'urish haqida qanday yo'l tutadi?",
+  "o": [
+   "Ular uchun ko'p mehnat qiladi",
+   "Ularni butunlay tark etib yuboradi",
+   "Ular haqida doim maslahat so'raydi",
+   "Ularga g'am chekmay, oxiratga e'tibor beradi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 7,
+  "k": "fakt",
+  "q": "Muhammad ibn Hasan kechalarni bedor o'tkazganda nima haqida gapirar edi?",
+  "o": [
+   "Mol-davlat lazzati bu lazzat oldida hech",
+   "Uyqu ilmning eng katta dushmani",
+   "Kecha kunduzdan ko'ra qisqaroqdir",
+   "Yolg'izlik jamoadan afzalroqdir"
+  ],
+  "c": 0
+ },
+ {
+  "f": 8,
+  "k": "sabab",
+  "q": "Nima uchun yoshlik ilm olish uchun eng fazilatli davr sanaladi?",
+  "o": [
+   "Ustozlar yoshlarni ko'proq yaxshi ko'radi",
+   "Qalb g'am-tashvishdan xoli bo'lgani uchun",
+   "Yoshlarning xotirasi cheksiz bo'lgani uchun",
+   "Bu davrda ilm bepul o'rgatilgani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 8,
+  "k": "amaliy",
+  "q": "Muhammad ibn Hasan bir kitobdan zeriksa nima qilar edi?",
+  "o": [
+   "Bir necha soat dam olar edi",
+   "Shogirdlarini chaqirtirar edi",
+   "Yonidagi boshqa kitobni olar edi",
+   "Tashqariga chiqib yurar edi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 8,
+  "k": "taqqos",
+  "q": "Hasan ibn Ziyodning hikoyasi qaysi fikrni tasdiqlaydi?",
+  "o": [
+   "Yosh ulg'aygach ilm o'rganib bo'lmaydi",
+   "Faqat yoshlikda ilm olish mumkin",
+   "Ilm olish uchun boylik kerak bo'ladi",
+   "Ilm talabi beshikdan lahadgachadir"
+  ],
+  "c": 3
+ },
+ {
+  "f": 9,
+  "k": "amaliy",
+  "q": "Talabaga dushmanlik va arazlashish borasida qanday ko'rsatma berilgan?",
+  "o": [
+   "Bu ishlar umrni zoe ketkazgani uchun man etilgan",
+   "Faqat kuchli dushmanga qarshi ruxsat etiladi",
+   "Ustoz ruxsat bersa, joiz hisoblanadi",
+   "Bir marta bo'lsa, zarari yo'q sanaladi"
+  ],
+  "c": 0
+ },
+ {
+  "f": 9,
+  "k": "iqtibos",
+  "q": "Xalq maqoli nodon kishi bilan tortishish haqida nima deydi?",
+  "o": [
+   "Nodonning gapi o'ziga qoladi",
+   "Jinnini «jinni» desang, arpa bo'yi qo'shiladi",
+   "Nodondan uzoq yurgan tinch yashaydi",
+   "Nodonga javob bermagan aqlli sanaladi"
+  ],
+  "c": 1
+ },
+ {
+  "f": 10,
+  "k": "sabab",
+  "q": "Nima uchun eshitgan foydani darhol yozib qo'yish tavsiya qilingan?",
+  "o": [
+   "Ustoz shuni talab qilgani uchun",
+   "Yozuv husnini o'stirgani uchun",
+   "Umr qisqa, ilm esa ko'p bo'lgani uchun",
+   "Kitob yozishga tayyorgarlik bo'lgani uchun"
+  ],
+  "c": 2
+ },
+ {
+  "f": 10,
+  "k": "amaliy",
+  "q": "Ilmi bo'lmagan, yoshi ulug' kishidan talaba qanday foydalanishi mumkin?",
+  "o": [
+   "Undan yurt tarixini so'rab olishi",
+   "Uni ustoz o'rnida qabul qilishi",
+   "Undan hunar o'rganib olishi",
+   "Odob bilan xushnud qilib, duosini olishi"
+  ],
+  "c": 3
+ },
+ {
+  "f": 11,
+  "k": "fakt",
+  "q": "Ko'p gapiradigan kishining majlisi haqida qanday vasiyat qilingan?",
+  "o": [
+   "Undan zo'r berib uzoq bo'lish kerak",
+   "Unda sukut saqlab o'tirish kerak",
+   "Uni ustozga xabar qilish kerak",
+   "Unda faqat savol berish kerak"
+  ],
+  "c": 0
+ },
+ {
+  "f": 11,
+  "k": "sabab",
+  "q": "Buzg'unchi va fosiq kishilardan uzoqlashish nima uchun taqvo sanaladi?",
+  "o": [
+   "Ular ilmni tan olmagani uchun",
+   "Suhbat o'z ta'sirini qoldirgani uchun",
+   "Ular ustozni hurmat qilmagani uchun",
+   "Ular vaqtni ko'p olgani uchun"
+  ],
+  "c": 1
+ },
+ {
+  "f": 12,
+  "k": "amaliy",
+  "q": "Talaba darsni boshlashda va tugatishda nima qilishi tavsiya qilingan?",
+  "o": [
+   "Ustozdan alohida ruxsat so'rashi",
+   "Daftar sahifasini belgilab qo'yishi",
+   "Maxsus duo va kalimalarni aytishi",
+   "Sheriklari bilan maslahatlashishi"
+  ],
+  "c": 2
+ },
+ {
+  "f": 12,
+  "k": "fakt",
+  "q": "Salavot aytishni ko'paytirish nimaga ijobiy ta'sir ko'rsatadi deyilgan?",
+  "o": [
+   "Kishining moliga va rizqiga",
+   "Kishining uyqusi va tetikligiga",
+   "Kishining ovozi va nutqiga",
+   "Kishining zehni va hifziga"
+  ],
+  "c": 3
+ }
+]
