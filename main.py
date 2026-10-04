@@ -21,9 +21,9 @@ from dotenv import load_dotenv
 ROOT = Path(__file__).resolve().parent
 load_dotenv(ROOT / ".env")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
-AI_TOKEN = os.getenv("OPENROUTER_API_KEY", "").strip()
+AI_TOKEN = (os.getenv("OPENROUTER_API_KEY") or os.getenv("OPENAI_API_KEY", "")).strip()
 if not BOT_TOKEN:
-    raise SystemExit("BOT_TOKEN topilmadi. .env faylga bot tokenini kiriting.")
+    raise SystemExit("BOT_TOKEN topilmadi. Local .env yoki hosting Environment Variables sozlamasini tekshiring.")
 
 # Oldingi wrangler.toml'dan ko'chirilgan. Istasangiz .env orqali o'zgartiring.
 GROUP_ID = os.getenv("CHAT_ID", "-1001920805324")
@@ -33,7 +33,7 @@ GROUP_URL = os.getenv("GROUP_URL", "https://t.me/ustozimnurimco")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "s1mple_reaction_3_bot")
 KITOB_START = date.fromisoformat(os.getenv("KITOB_START", "2026-08-08"))
 TZ = ZoneInfo("Asia/Tashkent")
-DB_PATH = ROOT / "ustozim_quiz.db"
+DB_PATH = Path(os.getenv("DB_PATH", str(ROOT / "ustozim_quiz.db")))
 QUIZ_BANK = json.loads((ROOT / "quiz_bank.json").read_text(encoding="utf-8"))
 BOOK_BANK = json.loads((ROOT / "kitob_bank.json").read_text(encoding="utf-8"))
 TOPICS = {"IT": "💻 IT", "Liderlik": "🌱 Liderlik", "Diniy": "🕌 Islomiy", "Kino": "🎬 Kino", "Mantiq": "🧩 Mantiqiy", "Matem": "➗ Matem", "Ingliz": "🔤 Ingliz", "Kitob": "📖 Kitob"}

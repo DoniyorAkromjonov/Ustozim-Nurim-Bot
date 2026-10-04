@@ -1,0 +1,17 @@
+services:
+  - type: worker
+    name: ustozim-quiz-bot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    disk:
+      name: ustozim-quiz-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: DB_PATH
+        value: /var/data/ustozim_quiz.db
