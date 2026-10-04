@@ -9,6 +9,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import aiosqlite
+from aiohttp import web
 from aiogram import Bot, Dispatcher, F
 from aiogram.enums import ParseMode, PollType
 from aiogram.client.default import DefaultBotProperties
@@ -489,14 +490,53 @@ async def scheduler():
             except Exception: logging.exception("channel leaderboard")
         await asyncio.sleep(20)
 
+async def start_web_server(stop_event):
+    async def health_check(_request):
+        return web.Response(text="Bot is running")
+
+    app = web.Application()
+    app.router.add_get("/", health_check)
+    runner = web.AppRunner(app)
+    await runner.setup()
+    host = "0.0.0.0"
+    port = int(os.getenv("PORT", "10000"))
+    site = web.TCPSite(runner, host=host, port=port)
+    try:
+        await site.start()
+        logging.info("HTTP health server listening on %s:%s", host, port)
+        await stop_event.wait()
+    finally:
+        await runner.cleanup()
+
 async def main():
     global bot
     await init_db()
     bot=Bot(BOT_TOKEN,default=DefaultBotProperties(parse_mode=ParseMode.HTML))
     await bot.set_my_commands([BotCommand(command="kunlik",description="Bugungi viktorina"),BotCommand(command="kitob",description="Kitob marafoni"),BotCommand(command="mashq",description="O'z tezligimda"),BotCommand(command="natija",description="Natijalarim"),BotCommand(command="reyting",description="Bugungi reyting"),BotCommand(command="yordam",description="Yordam")])
-    asyncio.create_task(scheduler())
+    stop_web_server = asyncio.Event()
+    scheduler_task = asyncio.create_task(scheduler(), name="scheduler")
+    web_task = asyncio.create_task(start_web_server(stop_web_server), name="health-server")
     logging.info("Bot polling bilan ishga tushdi")
-    await dp.start_polling(bot,allowed_updates=dp.resolve_used_update_types())
+    polling_task = asyncio.create_task(
+        dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types()),
+        name="telegram-polling",
+    )
+    try:
+        done, _pending = await asyncio.wait(
+            (polling_task, web_task), return_when=asyncio.FIRST_COMPLETED
+        )
+        # A polling shutdown (including SIGTERM handled by aiogram) ends the
+        # service; an unexpected HTTP-server exit should also stop polling.
+        for task in done:
+            task.result()
+    finally:
+        stop_web_server.set()
+        for task in (polling_task, web_task):
+            if not task.done():
+                task.cancel()
+        await asyncio.gather(polling_task, web_task, return_exceptions=True)
+        scheduler_task.cancel()
+        await asyncio.gather(scheduler_task, return_exceptions=True)
 
 if __name__=="__main__":
     logging.basicConfig(level=logging.INFO)

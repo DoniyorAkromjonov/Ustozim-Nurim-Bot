@@ -1,9 +1,10 @@
 services:
-  - type: worker
+  - type: web
     name: ustozim-quiz-bot
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
+    healthCheckPath: /
     disk:
       name: ustozim-quiz-data
       mountPath: /var/data
