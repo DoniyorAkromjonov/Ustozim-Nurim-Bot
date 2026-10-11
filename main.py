@@ -1,5 +1,6 @@
 ﻿"""Ustozim Nurim Telegram bot. Aiogram polling + SQLite, external services not required."""
 import asyncio
+import html
 import json
 import logging
 import os
@@ -300,9 +301,8 @@ async def leaderboard(chat_id, day=None):
     async with aiosqlite.connect(DB_PATH) as db:
         rows=await (await db.execute("SELECT u.name,u.username,SUM(a.correct),COUNT(*) FROM answers a JOIN users u ON a.uid=u.uid WHERE a.day=? AND a.mode='daily' GROUP BY a.uid HAVING COUNT(*)=15 ORDER BY SUM(a.correct) DESC,COUNT(*) DESC LIMIT 10",(d,))).fetchall()
     text=f"🏆 <b>Kunlik viktorina hisoboti</b> · {d}\n\n"
-    text += "\n".join(f"{i}. {'@'+r[1] if r[1] else r[0]} — {r[2]}/{r[3]}" for i,r in enumerate(rows,1)) if rows else "Bugun hali yakunlangan natijalar yo'q."
-    kb=InlineKeyboardMarkup(inline_keyboard=[[InlineKeyboardButton(text="🎯 Botda viktorinani boshlash",url=f"https://t.me/{BOT_USERNAME}?start=kunlik")]])
-    await bot.send_message(chat_id,text,reply_markup=kb)
+    text += "\n".join(f"{i}. {('@'+html.escape(r[1])) if r[1] else html.escape(r[0] or 'Ishtirokchi')} — {r[2]}/{r[3]}" for i,r in enumerate(rows,1)) if rows else "Bugun hali yakunlangan natijalar yo'q."
+    await bot.send_message(chat_id,text)
 
 def category_top_five(rows):
     totals={}
@@ -478,16 +478,18 @@ async def scheduler():
             try:
                 await post_fasl(); await remind_users()
             except Exception: logging.exception("reminder")
-        if now.hour==23 and now.minute==30 and key not in sent:
-            sent.add(key)
+        if now.hour==23 and now.minute==30 and f"group:{key}" not in sent:
+            sent.add(f"group:{key}")
             try: await leaderboard(GROUP_ID)
             except Exception: logging.exception("group leaderboard")
             try: await category_leaderboard(GROUP_ID)
             except Exception: logging.exception("category leaderboard")
-        if now.hour==23 and now.minute==30 and key not in sent:
-            sent.add(key)
+        if now.hour==23 and now.minute==30 and f"book:{key}" not in sent:
+            sent.add(f"book:{key}")
             try: await book_leaderboard(CHANNEL_ID)
             except Exception: logging.exception("channel leaderboard")
+        if len(sent)>10:
+            sent={item for item in sent if key.split()[0] in item}
         await asyncio.sleep(20)
 
 async def start_web_server(stop_event):
